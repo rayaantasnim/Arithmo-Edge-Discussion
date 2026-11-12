@@ -1,0 +1,18 @@
+• Tier 1 (500 ELO): Base Radical (সবেমাত্র যাত্রা শুরু)
+• Tier 2 (700 ELO): Euclidean Initiate (ইউক্লিডের সূত্র ভাঙা শুরু করেছে)
+• Tier 3 (900 ELO): Quotient Scout (ভাগফল ও ভাগশেষের ওপর নিয়ন্ত্রণ আসছে)
+• Tier 4 (1100 ELO): Divisor Vanguard (ভাজক নিয়ে দ্রুত খেলতে পারে)
+• Tier 5 (1300 ELO): Coprime Operator (সহ-মৌলিক সংখ্যার প্যাটার্ন চিনে গেছে)
+• Tier 6 (1500 ELO): Linear Combinator (বেজুটের আইডেন্টিটির মতো দ্রুত লিনিয়ার কম্বিনেশন ধরতে পারে)
+• Tier 7 (1700 ELO): Algorithm Tactician (ইউক্লিডিয়ান লুপ যার মাথায় ঘোরে)
+• Tier 8 (1900 ELO): Diophantine Vector (ডায়োফ্যান্টাইন ইকুয়েশনের গতিতে লসাগু-গসাগু করে)
+• Tier 9 (2100 ELO): Congruence Overlord (মডুলার কনগ্রুয়েন্সের মাস্টার)
+• Tier 10 (2400 ELO): Remainder Archon (চাইনিজ রিমেইন্ডার থিওরেম লেভেলের গতি)
+• Tier 11 (2700 ELO): Infinite Product (লসাগু ও গসাগুর গুণফলের সর্বোচ্চ চূড়া)
+• Tier 12 (3000+ ELO): The Absolute Infinity / Euclidean Singularity (লসাগু-গসাগুর গড-মোড!)
+
+
+
+New name : ArithmoEdge 
+
+৩.২ ভার্সন প্রাইম ফ্যাক্টর সাইট নামেই চলুক এবং ৪.০ ভার্সন থেকে 'ArithmoEdge' নাম দিয়ে এক মেগা-প্ল্যাটফর্মে নতুন যাত্রা শুরু হোক।

@@ -1,0 +1,28 @@
+We found the exact root cause of why `profile.html` shows `"Candidate Profile Locked"` and `result.html` shows `"Guest Match Detected - ELO Not Saved"` even when the user is already signed in (as proven by the top header showing the user's Google avatar, name, and 500 ELO).
+
+**The Root Cause (Auth Race Condition):**
+When navigating to `profile.html`, `result.html`, `medals.html`, or `profile-settings.html`, the page scripts check `isUserLoggedIn()` / `getCurrentUser()` synchronously on `DOMContentLoaded` *before* Firebase's `onAuthStateChanged` finishes initializing (`isAuthReady === false`). Because `currentUser` is momentarily `null` for the first ~300ms, those pages falsely treat the signed-in user as an unauthenticated Guest, lock the profile, and refuse to save ELO updates to Cloud Firestore.
+
+Please fix this across the ENTIRE codebase (`firebase.js`, `result.js`, `exam.js`, `profile.js`, `profile-settings.js`, `medals.js`, `notifications-page.js`, `rating.js`, and `home.js`) without breaking the working top header:
+
+1. **Add `waitForAuthReady()` in `firebase.js`:**
+   - Export an async helper function `waitForAuthReady()` in `firebase.js` that returns a Promise resolving with `{ user: currentUser, profile: currentProfile }` ONLY after `onAuthStateChanged` has fired for the first time (`isAuthReady === true`).
+   - Also keep `onAuthChange` and custom window events (`primefactor_auth_changed`, `primefactor_profile_updated`) working seamlessly.
+
+2. **Fix ELO Saving & Match Commits on `result.js` & `exam.js`:**
+   - In `result.js` (and `result.html`), `await waitForAuthReady()` BEFORE evaluating whether the match is a Guest match or an Authenticated match.
+   - If `user` is logged in:
+     - Immediately hide the `"Guest Match Detected - ELO Not Saved"` warning banner.
+     - Commit the match result to Cloud Firestore via `recordMatchToFirestore(matchData)` (use a unique match/session ID guard in `sessionStorage` so refreshing `result.html` does NOT double-count the same match).
+     - Update the top header pill and the Verdict card with the newly updated ELO (e.g., `500 + 95 = 595 ELO`).
+   - If a guest genuinely finishes a match while logged out and then clicks `"Sign In to Save Progress"` on `result.html`, immediately save that pending match to Firestore right after sign-in completes.
+
+3. **Unlock `profile.js` & All Other Gated Pages (`await waitForAuthReady()`):**
+   - Update `profile.js`, `profile-settings.js`, `medals.js`, `home.js`, and `rating.js` to `await waitForAuthReady()` on load and listen to `onAuthChange`.
+   - On `profile.js`, hide `"Candidate Profile Locked"`, reveal the dashboard, and populate the user's real Google name, photo, UID badge, live ELO, streaks, medals, and `match_logs` from Firestore.
+   - On `home.js`, hide the `"Sign In to Unlock Live Stats"` overlay when signed in and display real Firestore stats.
+
+4. **Clean Up Remaining `1,000 ELO` / `Sieve Calibrator` Hardcoded Placeholders:**
+   - Replace any static default `1,000 ELO` or `Sieve Calibrator` strings across the HTML/JS files with `500 ELO` and `Composite Apprentice` so no outdated default numbers flash before Firestore loads.
+
+Please list every modified file and provide the complete, copy-pasteable code for each updated file.

@@ -1,0 +1,17 @@
+🎥 Module 7: AI-Driven Optical Telemetry & Neural Audio Collusion Trap Engine (Refined)
+
+• Unified Consent Gate: Launching a Rated Contest for the first time triggers a single browser permission prompt syncing camera and microphone access. Restricting access blocks the arena and applies a flat -10 ELO deduction to legacy profiles. Once approved, the cryptographic token locks permission forever without displaying secondary prompts.
+• Context-Aware Optical Telemetry & Adaptive Gaze Guard: The camera loop continuously tracks facial limits, eye-gaze vectors, and cornea illumination. To protect honest competitors engaged in deep calculation (Cognitive Gaze Aversion), the engine cross-references off-screen looks with real-time math complexity and input states:
+• Dynamic Grace Buffer Calibration: The baseline 2-second grace buffer scales up dynamically to 4.5 seconds if the target number is a complex multi-digit composite integer (N ≥ 3 unique prime factors) or if the keyboard input array registers a complete Idle State (zero active typing).
+• Soft Warning Threshold: Exceeding the calibrated buffer while remaining idle triggers a subtle glowing amber Top-Toast: 🚨 GAZE DEFLECTION: Focus on canvas to maintain multiplier. No ELO is deducted during this cognitive pause.
+• Hard Strike Trigger: A flat -5 ELO deduction, crimson flashing screen borders, and the lockdown sequence ignite only if the competitor leaves the seat entirely, covers the camera lens, causes a total room blackout, or exhibits phone-screen eye-ray reflections while actively entering characters.
+• Neural Audio Collusion Trap (Zero False-Positive Protection): Isolates and baselines the player's personal voice pitch. The system triggers the Progressive Plus-Rating Blackhole Lockdown Ladder if, and only if, all three of the following high-correlation collusive metrics are logged simultaneously:
+1. An external voice frequency is caught speaking more than one prime factor or a single prime multiple times.
+2. The optical loop registers the player's gaze vector shifting significantly out of bounds (e.g., looking down at a smartphone or secondary screen).
+3. The input listener logs the competitor typing correct answers at super-speeds without a single backspace or delete key event inside a tight 100ms to 2,500ms processing window.
+• The Blackhole Lockdown Ladder Mechanics:
+• Flags 1 & 2: Triggers a 1 Plus Contest Lockdown. The immediate next positive rated match performance (Δ R > 0) is completely absorbed as a system penalty and converted to a 0 ELO reward to lift the restriction.
+• Flags 3 to 8: Escalates to a 2 Plus Contests Lockdown.
+• Flag 9: Escalates to a 3 Plus Contests Lockdown.
+• Flag 10: Enforces a mandatory 1-Month Temporal Ban followed by a complete hardware security system Hard Reboot upon return.
+• Strict Lockdown Security Policy: Tracking integrity remains 100% active during lockdown trials. Integrity offenses committed during a lockdown deduct negative ELO instantly and expand the contest counter progressively.

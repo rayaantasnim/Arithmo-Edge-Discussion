@@ -1,0 +1,26 @@
+We are upgrading Prime-Factor.app to V3.4 (Step 1 of 3: Backend Foundation, Unique @handle System, Public Leaderboard Collection & Friend System). Keep our existing top header layout and V3.3 Auth fix (`waitForAuthReady()`) completely intact.
+
+Please implement the following updates across `firestore.rules`, `firebase.js`, `profile-settings.html`, and `profile-settings.js`:
+
+1. **Firestore Security Rules (`firestore.rules`):**
+   - `users/{userId}`: Only the authenticated owner (`request.auth != null && request.auth.uid == userId`) can read and write their full private profile (which includes private fields like `email` and `friends`).
+   - `leaderboard/{userId}`: Allow public read (`allow read: if true;`) so anyone (including logged-out guests) can view standings and public profiles, while restricting writes (`allow create, update: if request.auth != null && request.auth.uid == userId;`) so only the authenticated owner can update their own public card with valid numeric ELO bounds (`elo >= 0`).
+   - `handles/{handleName}`: Allow public read (`allow read: if true;`) and authenticated create/delete by the handle owner (`uid`) to enforce 100% globally unique handles without race conditions.
+
+2. **Unique `@handle` System (`firebase.js` & `profile-settings.js`):**
+   - Add a `handle` field (lowercase alphanumeric + underscores, 3–20 chars, e.g., `rayaan_tasnim`) and `friends: []` array to `createDefaultProfile(user)` in `firebase.js`.
+   - On first Google sign-in (`fetchOrCreateProfile`), auto-generate a clean unique `handle` from their email/displayName (appending digits if taken) and claim it in `handles/{handle}` and `leaderboard/{uid}`.
+   - In `profile-settings.html` and `profile-settings.js`, add a **"Unique Competitor Handle (`@handle`)"** input field with real-time validation. When saving, verify uniqueness against `handles/{newHandle}`: if taken by another UID, show a clear red error; if available, release the old handle doc, claim the new one, and update both `users/{uid}` and `leaderboard/{uid}`.
+
+3. **Public `leaderboard/{uid}` Sync & Friend Actions (`firebase.js`):**
+   - Maintain a public `leaderboard/{uid}` document storing ONLY safe public fields: `uid`, `handle`, `displayName`, `photoURL`, `elo`, `peak_elo`, `total_solved`, `total_matches`, `best_streak`, `country`, `organization`, `last_match_at` (numeric timestamp `Date.now()`), and `recent_matches` (last 10 matches for public profile viewing).
+   - **Match Sync (`recordMatchToFirestore`):** Whenever a logged-in user finishes a rated match, upsert (`setDoc` with `merge: true`) their updated stats and `last_match_at: Date.now()` into `leaderboard/{uid}`.
+   - **Profile Sync (`updateUserProfile`):** Whenever profile settings change (`handle`, `displayName`, `country`, `organization`), sync those public fields to `leaderboard/{uid}` without altering `last_match_at`.
+   - **Export Helper Functions in `firebase.js`:**
+     - `getPublicProfileByHandle(handle)` — fetches the public profile from `leaderboard` where `handle == normalizedHandle`.
+     - `searchCompetitorsByPrefix(queryText)` — queries `leaderboard` for matching handles/names (for the homepage Find Competitor box).
+     - `toggleFriendStatus(targetUid)` — uses Firestore `arrayUnion` / `arrayRemove` on `users/{currentUser.uid}.friends` and returns the updated boolean `isFriend`.
+     - `subscribeToActiveLeaderboard(onUpdateCallback)` — sets up a real-time `onSnapshot` listener for top 100 active competitors (`last_match_at >= Date.now() - 30 * 24 * 60 * 60 * 1000`, ordered by `elo` desc).
+     - `getUserExactGlobalRank(userElo, lastMatchAt)` — uses Firestore `getCountFromServer()` to return the exact global rank (`higherCount + 1`) if active in the last 30 days, or `null` if inactive.
+
+Please list every modified/created file and provide the complete, copy-pasteable code for each file.
