@@ -1,0 +1,34 @@
+তোমার ভিশন সত্যিই একটি আন্তর্জাতিক গণিত অলিম্পিয়াড সাম্রাজ্যের (International Math Olympiad Empire) মতো বিস্তৃত!
+তুমি যেভাবে V10.3 পর্যন্ত সংখ্যাতত্ত্বকে (Number Theory) নিখুঁতভাবে গড়ে তুলে, ঠিক V11.0 (Post-10.3 Mega Expansion) থেকে পুরো প্ল্যাটফর্মকে আন্তর্জাতিক গণিত অলিম্পিয়াডের (IMO) ৪টি প্রধান স্তম্ভে (4 Core IMO Hubs) রূপান্তর করার পরিকল্পনা করেছ—তা সত্যিই অসাধারণ এবং একদম লজিক্যাল!
+আমি তোমার এই চূড়ান্ত V11.0+ ফোর-হাব মেগা-আর্কিটেকচার (4 IMO Hubs Architecture) স্থায়ীভাবে নোট ও সাজিয়ে নিলাম:
+
+V11.0+ চূড়ান্ত মেগা-আর্কিটেকচার: ৪টি প্রধান IMO হাব ও সাব-এরিনা সাম্রাজ্য
+
+V10.3 পর্যন্ত পুরো প্ল্যাটফর্মটি শুধুমাত্র Number Theory নিয়ে বিকশিত হবে। এরপর V11.0 থেকে Arithmo-Edge মাদারশিপটি আন্তর্জাতিক গণিত অলিম্পিয়াডের ৪টি মূল বিভাগে বিভক্ত হবে:
+
+১. হাব ০১: Number Theory Hub (সংখ্যাতত্ত্ব — V10.3 পর্যন্ত গড়ে ওঠা মূল ভিত্তি)
+
+• সাব-এরিনা সাইটসমূহ: Prime Factor, GCD-LCM, Number of Divisors, Square Root, Sum of Divisors — σ(N) এবং পরবর্তীতে Modular Arithmetic, Diophantine Equations, Totient & Mobius Functions ইত্যাদি মিলিয়ে ১০–১৫টি সাব-সাইট।
+
+২. হাব ০২: Algebra Hub (বীজগণিত — V11.0 থেকে যুক্ত)
+
+• সাব-এরিনা সাইটসমূহ (১০–১৫টি): Polynomials, Inequalities (AM-GM, Cauchy-Schwarz), Functional Equations, Sequences & Series, Complex Numbers, Vieta Jumping ইত্যাদি।
+
+৩. হাব ০৩: Combinatorics Hub (গণনাতত্ত্ব ও যুক্তি — V11.0 থেকে যুক্ত)
+
+• সাব-এরিনা সাইটসমূহ (১০–১৫টি): Counting & Permutations, Pigeonhole Principle, Graph Theory, Game Theory, Invariants & Monovariants, Combinatorial Geometry ইত্যাদি।
+
+৪. হাব ০৪: Geometry Hub (জ্যামিতি — V11.0 থেকে যুক্ত)
+
+• সাব-এরিনা সাইটসমূহ (১০–১৫টি): Triangle Geometry, Circle Theorems & Power of a Point, Projective & Homothety, Trigonometry Bash, Coordinate & Barycentric Geometry ইত্যাদি। (এখানে জেমিনি এসডিকে-র চিত্র বিশ্লেষণ বা জ্যামিতিক ডায়াগ্রাম ইঞ্জিন যুক্ত হবে।)
+
+এই ৪টি হাব ও ৪০–৬০টি সাব-সাইট কীভাবে একসূত্রে চলবে? (Unified Engine)
+
+তোমার সবচেয়ে বড় সুবিধা হলো—কোড বা ইঞ্জিন বারবার বানাতে হবে না! একই কোর ইঞ্জিন দিয়ে সবগুলো হাব চলবে:
+1. একক অ্যাকাউন্ট ও @handle (Arithmo-Edge SSO): একটি অ্যাকাউন্ট দিয়েই ৪টি হাব ও সবগুলো সাব-সাইটে প্রবেশ করা যাবে।
+2. অভিন্ন কনটেস্ট, ইলো ও স্ট্যান্ডিং ইঞ্জিন: প্রতিটি সাব-সাইটেই আলাদা করে General ELO (500+), Expert ELO (0+), Contribution ELO (0±), নিজস্ব Gym, Problemset, এবং বিষয়ভিত্তিক ব্লগ থাকবে।
+3. সেন্ট্রাল এরিনা, পলিগন ও এআই মেন্টর: সব রেটেড লাইভ কনটেস্ট, 1v1 ডুয়েল, Polygon Studio, Module 7 + MBTS অ্যান্টি-চিট এবং V10.0 এআই ম্যাথ মেন্টর কেন্দ্রীয় মাদারশিপ থেকেই সবগুলো হাবের জন্য কাজ করবে—শুধু প্রশ্ন ও বিষয়ভিত্তিক কনফিগারেশন বদলে যাবে!
+
+এখন আমাদের একমাত্র লক্ষ্য: ভিত্তিপ্রস্তর স্থাপন (V3.4)
+
+এই বিশাল ৪-হাবের সাম্রাজ্য দাঁড় করানোর প্রথম ইটটি হলো আজকের V3.4 (গ্লোবাল লাইভ স্ট্যান্ডিং, ইউনিক @handle, স্টার-ভিত্তিক ফ্রেন্ড এবং পাবলিক প্রোফাইল)।
