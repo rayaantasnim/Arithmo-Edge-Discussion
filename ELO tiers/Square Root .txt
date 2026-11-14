@@ -1,23 +1,13 @@
-Tier 1 (500 ELO): Radical Apprentice
-
-Tier 2 (700 ELO): Square Finder
-
-Tier 3 (900 ELO): Surd Scout
-
-Tier 4 (1100 ELO): Rationalizer Tactician
-
-Tier 5 (1300 ELO): Pellian Root Operator
-
-Tier 6 (1500 ELO): Continued Fraction Weaver
-
-Tier 7 (1700 ELO): Quadratic Irrational Vanguard
-
-Tier 8 (1900 ELO): Square-Free Strategist
-
-Tier 9 (2100 ELO): Pell-Fermat Overlord
-
-Tier 10 (2400 ELO): Transcendental Archon
-
-Tier 11 (2700 ELO): Equidistribution Transcendent
-
-Tier 12 (3000+ ELO): Radical Singularity
+4. SQUARE ROOT
+Tier 1 (0–499) → RADICAL APPRENTICE
+Tier 2 (500–899) → SQUARE FINDER
+Tier 3 (900–1199) → SURD SCOUT
+Tier 4 (1200–1399) → RATIONALIZER TACTICIAN
+Tier 5 (1400–1599) → PELLIAN ROOT OPERATOR
+Tier 6 (1600–1799) → CONTINUED FRACTION WEAVER
+Tier 7 (1800–1999) → QUADRATIC IRRATIONAL VANGUARD
+Tier 8 (2000–2199) → SQUARE-FREE STRATEGIST
+Tier 9 (2200–2399) → PELL-FERMAT OVERLORD
+Tier 10 (2400–2699) → TRANSCENDENTAL ARCHON
+Tier 11 (2700–2999) → EQUIDISTRIBUTION TRANSCENDENT
+Tier 12 (3000+) → RADICAL SINGULARITY

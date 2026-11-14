@@ -1,14 +1,13 @@
-এরিনা ৫: Sum of Divisors - $\sigma(N)$ (উৎপাদকগুলোর সমষ্টি)
-
-Tier 1 (500 ELO): Factor Adder (সাধারণ উৎপাদকগুলোর যোগফল বের করা শুরু করেছে)
-Tier 2 (700 ELO): Aliquot Initiate (প্রকৃত ভাজক বা অ্যালিকোট পার্টস আলাদা করতে পারে)
-Tier 3 (900 ELO): Divisor Series Scout (গুণোত্তর ধারার সূত্র দিয়ে দ্রুত উৎপাদকের সমষ্টি বের করে)
-Tier 4 (1100 ELO): Perfect Number Vanguard (ইউক্লিড-অয়লার ফর্মুলা দিয়ে নিখুঁত বা পারফেক্ট নাম্বার চেনে)
-Tier 5 (1300 ELO): Amicable Operator (বন্ধুত্বপূর্ণ বা অ্যামিকেবল ও সোসিয়েবল সংখ্যা জোড়ার রহস্য ভেদ করে)
-Tier 6 (1500 ELO): Multiplicative Weaver (সিগমা ফাংশনের গুণাত্মক ধর্ম ($\sigma(mn) = \sigma(m)\sigma(n)$) প্রয়োগে দক্ষ)
-Tier 7 (1700 ELO): Abundance Tactician (অ্যাবানড্যান্ট, ডেফিসিয়েন্ট এবং উইয়ার্ড নাম্বারের ঘনত্ব বিশ্লেষক)
-Tier 8 (1900 ELO): Sigma-K Vector (উচ্চতর ঘাতের ভাজক সমষ্টি বা $\sigma_k(N)$ ফাংশনের গতিশীল প্রয়োগকারী)
-Tier 9 (2100 ELO): Euler Pentagonal Overlord (অয়লারের পেন্টাগোনাল নাম্বার থিওরেম ও রিকার্সন সূত্রের মাস্টার)
-Tier 10 (2400 ELO): Gronwall-Robin Archon (সিগমা ফাংশনের সর্বোচ্চ বৃদ্ধি বা গ্রনওয়াল-রবিন অসমতার বিশ্লেষক)
-Tier 11 (2700 ELO): Eisenstein Transcendent (আইজেনস্টাইন সিরিজ ও মডুলার ফর্মে সিগমা ফাংশনের শীর্ষ তাত্ত্বিক)
-Tier 12 (3000+ ELO): Sigma Singularity (উৎপাদক সমষ্টি ও সিগমা জগতের গড-মোড!)
+5. SUM OF DIVISORS — σ(N)
+Tier 1 (0–499) → FACTOR ADDER
+Tier 2 (500–899) → ALIQUOT INITIATE
+Tier 3 (900–1199) → DIVISOR SERIES SCOUT
+Tier 4 (1200–1399) → PERFECT NUMBER VANGUARD
+Tier 5 (1400–1599) → AMICABLE OPERATOR
+Tier 6 (1600–1799) → MULTIPLICATIVE WEAVER
+Tier 7 (1800–1999) → ABUNDANCE TACTICIAN
+Tier 8 (2000–2199) → SIGMA-K VECTOR
+Tier 9 (2200–2399) → EULER PENTAGONAL OVERLORD
+Tier 10 (2400–2699) → GRONWALL-ROBIN ARCHON
+Tier 11 (2700–2999) → EISENSTEIN TRANSCENDENT
+Tier 12 (3000+) → SIGMA SINGULARITY
