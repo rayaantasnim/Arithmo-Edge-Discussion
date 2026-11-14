@@ -1,0 +1,24 @@
+২. GCD-LCM (লসাগু ও গসাগু)
+Tier 1 (500 ELO): Base Radical
+
+Tier 2 (700 ELO): Euclidean Initiate
+
+Tier 3 (900 ELO): Quotient Scout
+
+Tier 4 (1100 ELO): Divisor Vanguard
+
+Tier 5 (1300 ELO): Coprime Operator
+
+Tier 6 (1500 ELO): Linear Combinator
+
+Tier 7 (1700 ELO): Algorithm Tactician
+
+Tier 8 (1900 ELO): Diophantine Vector
+
+Tier 9 (2100 ELO): Congruence Overlord
+
+Tier 10 (2400 ELO): Remainder Archon
+
+Tier 11 (2700 ELO): Infinite Product
+
+Tier 12 (3000+ ELO): Euclidean Singularity

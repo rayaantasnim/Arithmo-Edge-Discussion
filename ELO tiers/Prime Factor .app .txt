@@ -1,0 +1,14 @@
+ELO Tiers for the Prime Factors arena: 
+
+1. Prime Singularity (3000+)
+2. Riemann Transcendentalist (2700–2999)
+3. Canonical Analyst (2400–2699)
+4. Gaussian Cryptographer (2200–2399)
+5. Eulerian Sentinel (2000–2199)
+6. Logarithmic Vector (1800–1999)
+7. Prime Strategist (1600–1799)
+8. Modular Operator (1400–1599)
+9. Radix Scholar (1200–1399)
+10. Sieve Calibrator (900–1199)
+11. Composite Apprentice (500–899)
+12. Foundry Initiate (0–499)

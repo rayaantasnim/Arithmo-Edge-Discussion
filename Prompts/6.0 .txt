@@ -1,6 +1,0 @@
-New topics: 
-1. Prime Factor 
-2. GCD-LCM 
-3. Numbers of Divisor 
-4. Square Root
-5. সংখ্যার উৎপাদকগুলোর সমষ্টি (Sum of Divisors - \(\sigma(N)\))
