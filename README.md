@@ -3,97 +3,113 @@
 <img src="https://images.pexels.com/photos/7130560/pexels-photo-7130560.jpeg?auto=compress&cs=tinysrgb&w=1600&h=420&fit=crop" alt="Arithmo-Edge & Prime-Factor.app Cyber-Math Banner" width="100%" />
 
 # 🌌 Prime-Factor.app $\rightarrow$ **Arithmo-Edge**
-### *The World's First Real-Time ELO-Rated Competitive Mathematics & Number Theory Mega-Ecosystem*
-**Powered by Olympiad Edge**
+### *The World's First Real-Time ELO-Rated Competitive Mathematics & Olympiad Mega-Ecosystem — Powered by Olympiad Edge*
 
-[![Version](https://img.shields.io/badge/Version-V3.3_Live_%E2%86%92_V11.0%2B_Roadmap-00F0FF?style=for-the-badge&logo=semanticrelease&logoColor=0B0F19)](https://github.com/rayaan-tasnim/prime-factor.app)
-[![Ecosystem](https://img.shields.io/badge/Ecosystem-Arithmo--Edge_%7C_Olympiad_Edge-8B5CF6?style=for-the-badge&logo=matrix&logoColor=white)](https://arithmo-edge.app)
-[![Database](https://img.shields.io/badge/Auth_%26_DB-Firebase_Auth_%26_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=0B0F19)](https://firebase.google.com)
-[![AI Engine](https://img.shields.io/badge/AI_Engine-Arithmo--AI_%2B_Gemini_Hybrid-10B981?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
-[![Anti-Cheat](https://img.shields.io/badge/Anti--Cheat-Module_7_%2B_MBTS_Zero--FP-F43F5E?style=for-the-badge&logo=shield&logoColor=white)](#4-zero-false-positive-dual-anti-cheat-module-7--mbts--alt-prevention)
-[![Deployment](https://img.shields.io/badge/Deploy-Vercel_Edge_%26_GitHub_Actions-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-[![Status](https://img.shields.io/badge/Architecture-Enterprise_Production_Blueprint-3B82F6?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+[![Version](https://img.shields.io/badge/Version-V3.3_Live_%E2%86%92_V11.0%2B-00F0FF?style=for-the-badge&logo=semanticrelease&logoColor=0B0F19)](https://github.com/rayaantasnim/Prime-Factorization-Web)
+[![Architecture](https://img.shields.io/badge/Architecture-1_Core_%2B_11_Subsites-8B5CF6?style=for-the-badge&logo=matrix&logoColor=white)](https://arithmo-edge.app)
+[![Auth & DB](https://img.shields.io/badge/Auth_%26_DB-Unified_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0B0F19)](https://firebase.google.com)
+[![AI](https://img.shields.io/badge/AI-Arithmo_AI_%26_Arithmo_Guild_AI-10B981?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev)
+[![Anti-Cheat](https://img.shields.io/badge/Anti--Cheat-Module_7_%2B_MBTS_Zero--FP-F43F5E?style=for-the-badge&logo=shield&logoColor=white)](#dropdown-6-arithmo-forge-subsite-10-5-pillar-legal-problem-generation--zero-fp-anti-cheat)
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel_Edge_%26_GitHub_Actions-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
 
 ---
 
-## 🧭 1. Executive Overview & Core Philosophy
+## 🏛️ 1. The 12-Site Unified Architecture (1 Core Portal + 11 Subsites)
 
-**Prime-Factor.app** is the foundational vanguard of **Arithmo-Edge**—the world’s first real-time, ELO-rated competitive mathematics, mental speed-factorization, and Olympiad number theory arena. Designed as the mathematical counterpart to **Codeforces** and **Chess.com**, the platform transforms pure arithmetic and Olympiad problem-solving into an electrifying, telemetry-verified global e-sport.
+<div align="center">
+<img src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg?auto=compress&cs=tinysrgb&w=1400&h=280&fit=crop" alt="Arithmo-Edge Unified Network Architecture" width="100%" />
+</div>
 
-Starting as a high-velocity prime factorization engine (`V3.2`–`V3.3`), the architecture scales systematically through `V10.3` into a **7-Site Arithmo-Edge Mothership** and expands in `V11.0+` into the **4 Core International Mathematical Olympiad (IMO) Hubs** (*Number Theory, Algebra, Combinatorics, Geometry*).
+<br/>
 
-### ⚡ Core Engineering & Competitive Pillars
+**Arithmo-Edge** operates as a **12-Website Federated Competitive Mathematics Mega-Ecosystem** unified under **one single Firebase Project** (`Firebase Auth` + `Cloud Firestore`). Every subsite shares the exact same authentication state, ELO ledger, telemetry vault, and wallet—enforced by a **Strict No-Handle Auto-Redirect Gate**:
 
-| Pillar | Architectural Standard | Competitive Impact |
-| :--- | :--- | :--- |
-| **🛡️ Zero False-Positive Fairness** | Dual-layer **Module 7** (Optical/Audio Proctoring with a `4.5s` *Adaptive Gaze Guard*) + **MBTS** (Post-contest behavioral & keystroke telemetry clustering). | Eliminates cheating without ever penalizing honest competitors who look away to think deeply. |
-| **⌨️ Zero-Mouse Speed UX** | Desktop hotkeys (`Space` $\rightarrow$ `*`, `Enter` $\rightarrow$ `Submit`) + **Mobile-Only Touch Numpad** (`0–9`, `*`, `^`, `⌫`, `SUBMIT`) + **Zen Focus Mode**. | Removes UI friction and mobile keyboard bounce, letting human calculation speed shine at millisecond precision. |
-| **⚔️ 6-Hour Post-Contest Hacking** | Codeforces-style post-contest hacking window (`+25 to +100 pts` for Problem/Edge-Case hacks with Global Rejudge; `+5 to +50 pts` for Opponent hacks). | Crowdsources mathematical rigor, catches AI edge-case flaws, and rewards deep analytical auditing. |
-| **💳 Hybrid Fair-Play Monetization** | All daily global rated contests remain **100% Free**. Paid tiers & **Pay-As-You-Go** micro-passes unlock 1v1 Blitz, AI Mentors, and Polygon Hosting. | Ensures zero "Pay-to-Win" advantages while sustaining serverless & AI infrastructure at global scale. |
+> **🔐 Strict No-Handle Auto-Redirect Protocol:**  
+> Every competitor MUST first authenticate via Google OAuth 2.0 (Gmail SSO) on the **Arithmo-Edge Core Portal** to claim their globally unique `@handle`. If a user attempts to sign into any of Subsites `#1–#11` with a Gmail account that lacks a registered `@handle` in Firestore, the client SDK immediately intercepts the session and auto-redirects them back to the **Core Portal `@handle` Onboarding Gate**.
 
----
-
-## 🏗️ 2. System Architecture & Ecosystem Diagrams
-
-### 🌐 A. The 7-Site Arithmo-Edge Mothership Architecture (`Post-10.3`)
-
-Rather than cluttering a single domain, **Arithmo-Edge** operates as a **Central Command Mothership** connected via Single Sign-On (`SSO` + unique `@handle`) to **5 Specialized Topic Arenas** and an isolated **Polygon Studio**:
+### 🌐 A. 12-Site Federated Ecosystem Blueprint (`Mermaid.js`)
 
 ```mermaid
 flowchart TB
-    subgraph S1["🏛️ SITE #1: CENTRAL MOTHERSHIP (Arithmo-Edge.app)"]
-        SSO["🔐 Google OAuth 2.0 SSO & Unique @handle"]
-        LIVE["⚔️ All Rated Live Contests (17:00 & 20:00 UTC)<br/>Special Episodes & Annual World Cup"]
-        DUEL["⚡ 1v1 Live Bullet Blitz & Friend Challenges<br/>+ 6-Hour Post-Contest Hacking"]
-        BRAIN["🧠 Central Arithmo-AI + Gemini Hybrid<br/>Context-Injected AI Math Mentor (V10.0)"]
-        SHIELD["🛡️ Module 7 + MBTS Anti-Cheat Engine<br/>Appeal Portal & HQ Command"]
-        MEGA["🏆 Global All-Rounder Mega-Leaderboard"]
+    subgraph CORE["🏛️ CORE MOTHERSHIP: Arithmo-Edge Core Portal (arithmo-edge.app)"]
+        SSO["🔐 First-Time Gmail SSO & Unique @handle Registration<br/>(Strict No-Handle Auto-Redirect Enforcement)"]
+        SUBS["💳 Subscriptions & One-Time 7-Day Free Trial<br/>+ Personal Arithmo Wallet & Pass Gifting"]
+        GUIDE["📖 Free Printable Guidebook & Overall Performance Rating Profile"]
+        PATRON["☕ Support the 13-Year-Old System Architect / Buy Me a Coffee<br/>(Syncs Firestore 'donors' → ☕ Patron Badge & Wall of Patrons | Zero ELO Boost)"]
     end
 
-    subgraph ARENAS["🎯 SITES #2 – #6: SPECIALIZED TOPIC ARENAS (Decentralized Practice & Community)"]
+    subgraph ARENAS["🎯 SUBSITES #1 – #5: CORE 5 TOPIC ARENAS (10 Core ELOs = 5 General + 5 Expert)"]
         direction LR
-        T1["🔹 Site #2<br/>Prime Factor"]
-        T2["🔸 Site #3<br/>GCD-LCM"]
-        T3["🟣 Site #4<br/>Number of Divisors"]
-        T4["🟡 Site #5<br/>Square Root"]
-        T5["🌹 Site #6<br/>Sum of Divisors σ(N)"]
+        S1["🔹 Subsite #1<br/>Prime Factors<br/>(#00F0FF Cyan)"]
+        S2["🔸 Subsite #2<br/>GCD-LCM<br/>(#10B981 Emerald)"]
+        S3["🟣 Subsite #3<br/>Numbers of Divisor<br/>(#8B5CF6 Violet)"]
+        S4["🟡 Subsite #4<br/>Square Root<br/>(#F59E0B Amber)"]
+        S5["🌹 Subsite #5<br/>Sum of Divisors σ(N)<br/>(#F43F5E Rose)"]
     end
 
-    subgraph S7["🛠️ SITE #7: POLYGON STUDIO (polygon.arithmo-edge.app)"]
-        POLY["✍️ Isolated Problemsetting Vault (1500+ ELO)<br/>Gemini 100% Verification Sandbox & HQ Audit Stamp"]
+    subgraph HUBS["⚡ SUBSITES #6 – #11: SPECIALIZED ECOSYSTEM PORTALS"]
+        direction TB
+        S6["⚔️ Subsite #6: Contest Section Portal<br/>Global Rated Live Contests • Pre-Registration • 1v1 Bullet Blitz • Direct Challenges • 6h Hacking"]
+        S7["🏆 Subsite #7: Standings Portal (Public Guest Access — No Login Required)<br/>14 Real-Time Leaderboards • Wall of Patrons • Country/Org/Academy Filters"]
+        S8["🧠 Subsite #8: Arithmo AI (Handle-Verified Gmail Login Required)<br/>Personal AI Math Mentor & Diagnostics • Hard-Locked During Live Rated Matches"]
+        S9["🏫 Subsite #9: Arithmo Academy Arena (Dual-Handle Context Routing)<br/>Same Gmail loads Personal @handle on 11 Sites, Cryptographic Academy Handle Inside Academy"]
+        S10["🛠️ Subsite #10: Arithmo Forge (forge.arithmo-edge.app)<br/>Isolated Problemsetting & Verification Studio (Uniquely Named to Avoid Codeforces Collision)"]
+        S11["💬 Subsite #11: Arithmo Socials<br/>Decentralized Topic Blogs • AI Blog-to-Lab Pipeline • 2000+ Expert Q&A • @handle DMs • Forensic Appeal Portal • Contribution ELO"]
     end
 
-    SSO <-->|"Instant Sync: 15 ELOs, Vault, Friends ★ & Wallet"| ARENAS
-    LIVE & DUEL -->|"Pushes Match Telemetry & Updates"| MEGA
-    BRAIN & SHIELD -.->|"Protects & Powers All 7 Sites"| ARENAS
-    ARENAS -->|"3 Standings/Site (15 Total), Topic Blogs, Gym, Problemset & Archive"| MEGA
-    POLY -->|"Approved & Audited Rounds Pushed to Live Arena"| LIVE
+    SSO <-->|"Unified Firebase Auth + Cloud Firestore Sync"| ARENAS
+    SSO <-->|"Unified Firebase Auth + Cloud Firestore Sync"| HUBS
+    PATRON -->|"Live Sync to 'donors' Collection"| S7
+    S10 -->|"HQ-Audited & Python-Verified Rounds"| S6
+    S6 -->|"Live Match Results & Post-Hacking Finalization"| S7
+    S11 -->|"Contribution ELO & Appeal Rulings"| CORE
 ```
 
-### 🌍 B. V11.0+ Four Core IMO Hubs Mega-Expansion
+---
 
-Once Number Theory reaches full maturity at `V10.3`, the unified core engine clones horizontally across all four pillars of the **International Mathematical Olympiad (IMO)**—expanding into **40–60 specialized sub-arenas** powered by a single `@handle` and shared telemetry engine:
+### 🧩 B. Complete 12-Website Directory & Functional Breakdown
+
+| Site ID | Portal Name & Domain | Core Responsibilities & Architectural Rules |
+| :---: | :--- | :--- |
+| **Core** | **Arithmo-Edge Core Portal**<br>`arithmo-edge.app` | • **First-Time Gmail SSO & `@handle` Registration:** Mandatory entry point; enforces Strict No-Handle Auto-Redirect across all 11 subsites.<br>• **Subscriptions & 7-Day One-Time Free Trial:** Manages Free, Plus, Pro, Premium, Singularity, and Academy tiers.<br>• **Personal Arithmo Wallet:** Holds top-up credits, micro-passes, `@handle` pass gifts, and `Contribution ELO` milestone rewards.<br>• **Free Printable Guidebook & Overall Rating:** Hosts the printable master handbook and displays the user's unified **Overall Performance Rating** profile.<br>• **☕ Support the 13-Year-Old System Architect / Buy Me a Coffee:** Dedicated donation portal syncing donors in real time to the Firestore `donors` collection, unlocking a prestigious `☕ Patron` profile badge and placement on the public **Wall of Patrons** on Standings—with **strictly zero ELO or competitive advantage**. |
+| **#1** | **Prime Factors Arena**<br>`prime.arithmo-edge.app` | • **Signature Theme:** Fixed **Electric Cyan (`#00F0FF`)** dark neon UI *(strictly no light/dark theme toggle on any arena)*.<br>• **Features:** Unrated Practice, **Virtual Gym**, topic **Problemset**, and Dual Core ELOs (`General ELO` + `Expert ELO`). |
+| **#2** | **GCD-LCM Arena**<br>`gcd.arithmo-edge.app` | • **Signature Theme:** Fixed **Mint Emerald (`#10B981`)** dark neon UI.<br>• **Features:** Unrated Practice, **Virtual Gym**, topic **Problemset**, and Dual Core ELOs (`General ELO` + `Expert ELO`). |
+| **#3** | **Numbers of Divisor Arena**<br>`tau.arithmo-edge.app` | • **Signature Theme:** Fixed **Vibrant Violet (`#8B5CF6`)** dark neon UI.<br>• **Features:** Unrated Practice, **Virtual Gym**, topic **Problemset**, and Dual Core ELOs (`General ELO` + `Expert ELO`). |
+| **#4** | **Square Root Arena**<br>`sqrt.arithmo-edge.app` | • **Signature Theme:** Fixed **Laser Amber (`#F59E0B`)** dark neon UI.<br>• **Features:** Unrated Practice, **Virtual Gym**, topic **Problemset**, and Dual Core ELOs (`General ELO` + `Expert ELO`). |
+| **#5** | **Sum of Divisors $\sigma(N)$ Arena**<br>`sigma.arithmo-edge.app` | • **Signature Theme:** Fixed **Nebula Rose (`#F43F5E`)** dark neon UI.<br>• **Features:** Unrated Practice, **Virtual Gym**, topic **Problemset**, and Dual Core ELOs (`General ELO` + `Expert ELO`). *(Total across Subsites #1–#5 = **10 Core ELOs**).* |
+| **#6** | **Contest Section Portal**<br>`contests.arithmo-edge.app` | • Houses all global rated live contests, pre-registrations, 4-segment contract cards, **1v1 Bullet Blitz**, **Direct Friend Challenges**, and **6-Hour Post-Contest Hacking**. |
+| **#7** | **Standings Portal**<br>`standings.arithmo-edge.app` | • **Publicly viewable without login** (just like Codeforces), housing **14 Real-Time Leaderboards**, Country/Organization/Academy filters, and the **Wall of Patrons**. |
+| **#8** | **Arithmo AI**<br>`ai.arithmo-edge.app` | • Dedicated AI Math Mentor & Diagnostics subsite; requires handle-verified Gmail login and is **hard-locked during live rated matches**. |
+| **#9** | **Arithmo Academy Arena**<br>`academy.arithmo-edge.app` | • Isolated institutional subsite for schools, colleges, and math clubs powered by **Dual-Handle Context Routing**: the same Gmail loads the user's personal `@handle` across the other 11 sites, while automatically loading the institution's **Cryptographic Academy Handle** inside Academy Arena. |
+| **#10** | **Arithmo Forge**<br>`forge.arithmo-edge.app` | • Isolated problemsetting & verification studio—uniquely branded **Arithmo Forge** to avoid any naming collision with Codeforces Polygon. |
+| **#11** | **Arithmo Socials**<br>`socials.arithmo-edge.app` | • Decentralized topic blogs, AI-curated **Blog-to-Lab** pipeline, Expert Q&A (`2000+ ELO`), `@handle` Direct Messages, **Forensic Appeal Portal**, and global **`Contribution ELO`** profile display. |
+
+---
+
+### 🌍 C. `V11.0+` Four Core IMO Hubs Mega-Expansion (`Mermaid.js`)
+
+In `V11.0+`, the foundational 5 Number Theory arenas unify into **Hub 01: Number Theory** alongside **Hub 02: Algebra**, **Hub 03: Combinatorics**, and **Hub 04: Geometry**—scaling to **10–15 specialized sub-arenas per hub** (`40–60` total arenas) all governed by one `@handle` and unified Firebase backend:
 
 ```mermaid
-flowchart LR
-    CORE["🌌 ARITHMO-EDGE UNIFIED CORE ENGINE<br/>(SSO @handle • Dual ELO • Module 7 + MBTS • Polygon Studio • AI Mentor)"]
+flowchart TB
+    CORE["🌌 ARITHMO-EDGE UNIFIED CORE ENGINE (V11.0+)<br/>Single Gmail SSO • Personal @handle & Cryptographic Academy Handle • Module 7 + MBTS • Arithmo Forge & AI"]
 
-    subgraph H1["🏛️ HUB 01: NUMBER THEORY (V3.2 – V10.3 Foundation)"]
-        NT["Prime Factor • GCD-LCM • Divisors τ(N) • Square Root • Sum of Divisors σ(N)<br/>Modular Arithmetic • Diophantine Equations • Totient & Möbius Functions"]
+    subgraph H1["🏛️ HUB 01: NUMBER THEORY (10–15 Sub-Arenas)"]
+        NT["Core 5 Unified: Prime Factors • GCD-LCM • Numbers of Divisor τ(N) • Square Root • Sum of Divisors σ(N)<br/>+ Modular Arithmetic • Diophantine Equations • Euler Totient φ(N) • Quadratic Residues • p-adic Valuations v_p(n)"]
     end
 
-    subgraph H2["📐 HUB 02: ALGEBRA (V11.0+ Expansion)"]
-        ALG["Polynomials • Inequalities (AM-GM, Cauchy-Schwarz) • Functional Equations<br/>Sequences & Series • Complex Numbers • Vieta Jumping"]
+    subgraph H2["📐 HUB 02: ALGEBRA (10–15 Sub-Arenas)"]
+        ALG["Polynomials & Roots • Classic Inequalities (AM-GM, Cauchy-Schwarz, Hölder) • Functional Equations<br/>Sequences & Recurrences • Complex Numbers • Vieta Jumping • Symmetric Polynomials"]
     end
 
-    subgraph H3["🎲 HUB 03: COMBINATORICS (V11.0+ Expansion)"]
-        COMB["Counting & Permutations • Pigeonhole Principle • Graph Theory<br/>Game Theory • Invariants & Monovariants • Combinatorial Geometry"]
+    subgraph H3["🎲 HUB 03: COMBINATORICS (10–15 Sub-Arenas)"]
+        COMB["Enumerative Counting • Pigeonhole Principle • Extremal Principle • Graph Theory<br/>Combinatorial Game Theory • Invariants & Monovariants • Generating Functions • Double Counting"]
     end
 
-    subgraph H4["🧭 HUB 04: GEOMETRY (V11.0+ Expansion + Vision SDK)"]
-        GEO["Triangle Geometry • Circle Theorems & Power of a Point • Homothety<br/>Trigonometry Bash • Coordinate & Barycentric Geometry"]
+    subgraph H4["🧭 HUB 04: GEOMETRY (10–15 Sub-Arenas)"]
+        GEO["Triangle Centers & Cevians • Circle Theorems & Power of a Point • Radical Axes • Homothety & Spiral Similarity<br/>Trigonometric Bash • Barycentric & Complex Coordinates • Projective Geometry"]
     end
 
     CORE --> H1
@@ -102,292 +118,346 @@ flowchart LR
     CORE --> H4
 ```
 
-### 📅 Weekly 7-Day Rotational Contest Schedule (`Arithmo-Edge`)
+---
 
-To prevent player fragmentation across sub-arenas, global rated rounds follow a synchronized weekly rotation (with **Expert Mode at `17:00 UTC`** and **General Mode at `20:00 UTC`** every competition day):
+## 📚 2. Expandable Architectural Deep-Dives
+
+<details id="dropdown-1-weekly-7-day-contest-calendar-no-rest-day-round-indexing--arena-ui-modes">
+<summary><strong>📅 Dropdown 1: Weekly 7-Day Contest Calendar (NO REST DAY!), Round Indexing & Arena UI Modes</strong></summary>
+
+<br/>
+
+<div align="center">
+<img src="https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&w=1400&h=240&fit=crop" alt="Arithmo-Edge Competitive Arena & Telemetry" width="100%" />
+</div>
+
+<br/>
+
+#### 🗓️ A. 7-Day Rotational Schedule (Strictly NO Rest Day!)
+Every single day of the week features an official global rated competition on **Subsite #6 (`Contest Section Portal`)**:
 
 ```text
-┌───────────┬──────────────────────────────────────────┬─────────────────────────────────────────────────────────┐
-│    DAY    │               ACTIVE ARENA               │                      FORMAT & RULES                     │
-├───────────┼──────────────────────────────────────────┼─────────────────────────────────────────────────────────┤
-│ Monday    │ 🔹 Prime Factor                          │ 17:00 UTC Expert (0+ ELO)  |  20:00 UTC General (500+)   │
-│ Tuesday   │ 🔸 GCD-LCM                               │ 17:00 UTC Expert (0+ ELO)  |  20:00 UTC General (500+)   │
-│ Wednesday │ 🟣 Number of Divisors τ(N)               │ 17:00 UTC Expert (0+ ELO)  |  20:00 UTC General (500+)   │
-│ Thursday  │ 🟡 Square Root & Perfect Squares         │ 17:00 UTC Expert (0+ ELO)  |  20:00 UTC General (500+)   │
-│ Friday    │ 🌹 Sum of Divisors σ(N)                  │ 17:00 UTC Expert (0+ ELO)  |  20:00 UTC General (500+)   │
-│ Saturday  │ 🏆 Special Contest Day (Human-Crafted)   │ 100% Original HQ/Polygon Rounds (IMO Episode, Special)  │
-│ Sunday    │ 🛠️ Weekly Rest, Gym & AI Review Day      │ Virtual Gym, Problemset, Blogs & AI Mentor Diagnostics  │
-└───────────┴──────────────────────────────────────────┴─────────────────────────────────────────────────────────┘
+┌───────────┬────────────────────────────────────────────┬───────────────────────────────────────────────────────────────┐
+│    DAY    │           ROUND INDEXING & ARENA           │                    TIMING & CONTEST FORMAT                    │
+├───────────┼────────────────────────────────────────────┼───────────────────────────────────────────────────────────────┤
+│ Monday    │ 🔹 Prime Factor Round #1, #2...            │ 17:00 UTC Expert Mode (0+ ELO)  |  20:00 UTC General Mode     │
+│ Tuesday   │ 🔸 GCD-LCM Round #1, #2...                 │ 17:00 UTC Expert Mode (0+ ELO)  |  20:00 UTC General Mode     │
+│ Wednesday │ 🟣 Numbers of Divisor Round #1, #2...      │ 17:00 UTC Expert Mode (0+ ELO)  |  20:00 UTC General Mode     │
+│ Thursday  │ 🟡 Square Root Round #1, #2...             │ 17:00 UTC Expert Mode (0+ ELO)  |  20:00 UTC General Mode     │
+│ Friday    │ 🌹 Sum of Divisors σ(N) Round #1, #2...    │ 17:00 UTC Expert Mode (0+ ELO)  |  20:00 UTC General Mode     │
+│ Saturday  │ 🏆 Special Theme Episodes                  │ IMO Simulation Episode #1 • Number Theory Contest #1 •        │
+│           │    (Rotating Weekly Series)                │ Arithmo Special #1 • Olympiad Challenge #1 • Math Query #1    │
+│ Sunday    │ 🔥 SUNDAY MEGA ARENA CONTEST               │ Prepared exclusively by Core HQ Team • Single Arena Focus     │
+│           │    (NO REST DAY — High-Stakes Flagship)    │ Default Expert Mode • 100 Min • 10 Qs • Max 2 Subs/Question   │
+└───────────┴────────────────────────────────────────────┴───────────────────────────────────────────────────────────────┘
 ```
 
----
+#### 🔥 B. Sunday Mega Arena Contest Protocol (NO Rest Day)
+* **Exclusive Core HQ Preparation:** Authored and audited solely by the **Core HQ Team**, centered around one spotlight arena (e.g., *Prime Factor Decompositions*).
+* **Default Expert Mode Only:** No General/Expert mode split—every competitor enters the unified **Default Expert Mode** interface.
+* **Open Eligibility:** Open to all rated users worldwide alongside an optional **Unrated** registration toggle.
+* **Format & Finalization Timeline:**
+  * **Duration & Volume:** `100 minutes`, `10 questions`, strict **Max 2 submissions per question**.
+  * **Post-Contest Pipeline:** `2-hour` Hacking Session + `1-hour` MBTS Telemetry Clustering = **Final official results & ELO updates at `T+3 hours`**.
 
-## 📚 3. Deep-Dive Architectural Specifications
+#### 🎟️ C. Multi-Stage Contest Registration Flow (`Subsite #6`)
+```text
+[1. Upcoming Events List]
+        │
+        ▼
+[2. Dedicated Event Page] ──► Choose Mode: [ General Mode ]  OR  [ Expert Mode ]
+        │
+        ▼
+[3. Expands 4 Segment Cards] (Initiate/Contender/Advanced/Finalist OR Apprentice/Intermediate/Vanguard/Apex)
+        │
+        ▼
+[4. Dedicated Segment Contract Page] ──► Displays exact rules, timers, and Module 7 + MBTS Legal Contract
+        │
+        ▼
+[5. Final Registration Choice] ──► [ Register as Rated ]   vs   [ Register as Unrated ]
+```
+* **Forced Unrated Registration:** If a user's running ELO exceeds the selected segment's maximum ELO cap (`>1199`, `>1799`, or `>2399`), the **`Register as Rated`** button is forcibly disabled—allowing entry strictly via **Forced Unrated Registration**.
+* **Cross-Mode Dual Registration Rule:** Competitors **CAN** register for **BOTH** `General` and `Expert` in the same event (since they run at different UTC hours), but **CANNOT** register for more than one segment within the same mode.
 
-Click any section below to expand the complete engineering rules, formulas, and operational protocols.
+#### 🖥️ D. General Arena UI vs. Expert Arena UI
 
-<details>
-<summary><strong>⚔️ 1. Dual Live Contests, 8 Segments & 6-Hour Hacking Mechanics</strong></summary>
-
-<br/>
-
-#### 🕒 Daily Synchronized Schedule & Registration
-* **Expert Live Contest (`17:00 UTC` / `11:00 PM BST`):** Deep Olympiad number theory and prime-structural problems (`Expert ELO` starts at `0`, floor `0`). Ends by `19:30 UTC`, giving competitors a 30-minute break before the General round.
-* **General Live Contest (`20:00 UTC` / `02:00 AM BST`):** High-velocity mental factorization and arithmetic sprint (`General ELO` starts at `500`, floor `0`).
-* **1-Minute Registration Cutoff:** One-click registration remains open until `T-1 minute` before kickoff (accompanied by a subtle browser audio cue).
-* **Identical Problemsets & Redemption Loop:** Every participant in a segment receives the exact same problemset ordered from easiest to hardest. Each problem can be faced at most **twice**:
-  * **General Mode:** `1st Attempt Solve` = `+10 pts` (retired); `Wrong/Skip` $\rightarrow$ `2nd Attempt Solve` = `+5 pts` (`2nd Wrong` = `-5 pts`).
-  * **Expert Mode:** Dynamic complexity weights from `+5 pts` to `+40 pts` (`+5 to +100 pts` in Community/Special rounds). Standings remain **hidden** during live Expert rounds to eliminate psychological pressure and collusion.
-
-#### 📊 The 8 Complexity-Based Segments
-
-| Mode | Segment | Tier Name | Questions | Duration | Max Rated ELO Cap | Over-Cap Rule |
-| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| **General** (`20:00 UTC`) | Segment 1 | **Initiate** | 25 | 30 min | `1199 ELO` | Auto-Unrated |
-| **General** (`20:00 UTC`) | Segment 2 | **Contender** | 20 | 35 min | `1799 ELO` | Auto-Unrated |
-| **General** (`20:00 UTC`) | Segment 3 | **Advanced** | 18 | 45 min | `2399 ELO` | Auto-Unrated |
-| **General** (`20:00 UTC`) | Segment 4 | **Finalist** | 15 | 60 min | *Unlimited* | Rated Eligible |
-| **Expert** (`17:00 UTC`) | Segment 1 | **Apprentice** | 15 | 75 min | `1199 ELO` | Auto-Unrated |
-| **Expert** (`17:00 UTC`) | Segment 2 | **Intermediate** | 12 | 90 min | `1799 ELO` | Auto-Unrated |
-| **Expert** (`17:00 UTC`) | Segment 3 | **Vanguard** | 10 | 120 min | `2399 ELO` | Auto-Unrated |
-| **Expert** (`17:00 UTC`) | Segment 4 | **Apex** | 8 | 150 min | *Unlimited* | Rated Eligible |
-
-#### 🔥 Discrete ELO Button Firewall
-In all **Rated** matches, `Regenerate` is strictly locked regardless of ELO, while tactical lifelines lock progressively as rating climbs:
-* `900+ ELO`: **Sandbox** locked | `1200+ ELO`: **Noise** locked | `1400+ ELO`: **Hint** locked | `1800+ ELO`: **Extend** locked | `2400+ ELO`: Only **Skip** active | `3000+ ELO`: **All lifelines locked**. *(In Unrated matches, all tools remain unlocked).*
-
-#### 🧪 Post-Contest 6-Hour Hacking, Recheck Appeals & 7-Hour Finalization (Expert Mode)
-1. **Backend Python + Gemini 100% Verification Loop:** Olympiad problems scraped via Python pass a Gemini `'Yes/No'` solvability gate, then enter an isolated Python sandbox cross-check loop until two independent mathematical methods match `100%`. Multi-solution problems are stored as arrays (`[ans1, ans2, ...]`).
-2. **6-Hour Hacking Window:**
-   * **Problem / Edge-Case Hacking (`+25 to +100 pts` + `+5 to +15 Contribution ELO`):** If a competitor proves the AI judge missed a valid edge case or set an erroneous answer, the problem undergoes a **Global Rejudge**, invalidating all false accepts across the leaderboard.
-   * **Opponent Submission Hacking (`+5 to +50 pts` / `-10 pts` Penalty):** Challenging an opponent's vulnerable submission awards `+5 to +50` scoreboard points on success, or deducts `-10` scoreboard points (`-3 to -8 Contribution ELO`) on failed/spam hacks.
-3. **"Appeal to Recheck" & Auto-Appeal:** Competitors can trigger `Appeal to Recheck` on any 2nd-attempt failed submission to force-check alternative valid solutions; **Vanguard** and **Apex** segments trigger automatic AI re-audits on high-difficulty misses.
-4. **7-Hour Finalization:** `6 Hours Hacking` + `1 Hour MBTS Telemetry Clustering` = Final `Expert ELO` update at `T+7 Hours` (`T+30 Minutes` for General Mode).
-
-</details>
-
----
-
-<details>
-<summary><strong>📈 2. Dual Rating System, 15-ELO Matrix & 30-Day Active Standings</strong></summary>
-
-<br/>
-
-#### 🧮 Tri-Category Rating Architecture & 15-ELO Matrix
-Across the 5 Arithmo-Edge arenas, every user holds **15 independent ratings** (`5 Topics × 3 Categories`) plus a unified **Global All-Rounder Index**:
-* **`General ELO` (`500` Start | `0` Floor):** Measures raw mental factorization velocity and accuracy.
-* **`Expert ELO` (`0` Start | `0` Floor):** Measures deep Olympiad number theory and proof-based problem solving.
-* **`Contribution ELO` (`0` Start | Can go Negative `±`):** Measures ecosystem stewardship (Hacking, Polygon Problemsetting, Blogs, Q&A, Bug Reports).
-
-#### 🏅 12-Tier Competitive Rank Titles
-
-| Tier | ELO Range | Prime Factor Title | Arithmo-Edge Archetype |
-| :---: | :---: | :--- | :--- |
-| **Tier 12** | `0 – 499` | *Unrated / Novice* | Base Radical |
-| **Tier 11** | `500 – 799` | *Composite Apprentice* | Euclidean Initiate |
-| **Tier 10** | `800 – 999` | *Factor Seeker* | Modular Voyager |
-| **Tier 09** | `1000 – 1199` | *Sieve Calibrator* | Divisor Analyst |
-| **Tier 08** | `1200 – 1399` | *Coprime Tactician* | Congruence Specialist |
-| **Tier 07** | `1400 – 1599` | *Totient Strategist* | Diophantine Vector |
-| **Tier 06** | `1600 – 1799` | *Quadratic Arbiter* | Residue Master |
-| **Tier 05** | `1800 – 1999` | *Gaussian Cryptographer* | Analytic Theorist |
-| **Tier 04** | `2000 – 2199` | *Riemann Vanguard* | Grand Theorist |
-| **Tier 03** | `2200 – 2399` | *Eulerian Grandmaster* | International Master |
-| **Tier 02** | `2400 – 2999` | *Dirichlet Sovereign* | Legendary Grandmaster |
-| **Tier 01** | `3000+` | *Prime Singularity* | The Absolute Infinity |
-
-#### 🌍 Real-Time Standings & System Expectation ELO Override
-* **30-Day Active Match Filter:** Global leaderboards stream live via Firestore `onSnapshot` and display active competitors who have played at least **1 rated match in the last 30 days**. Inactive users retain their ELO safely and reappear immediately upon playing a match.
-* **Pinned "Your Standing" Card & Star (`★`) Friends:** Logged-in users always see their exact global rank pinned at the top via `getCountFromServer()`. Starring (`★`) any profile adds them to the **`My Friends`** leaderboard filter alongside **Country** and **Institution/Club** filters.
-* **System Expectation Override (`ΔR` Formula):**
-  $$\Delta R = K \times (\text{Actual Score} - \text{Expected Score}) \times \text{Velocity Factor}$$
-  If a `1200 ELO` player faces a `2200 ELO` Grandmaster and loses narrowly (`9/10` vs `10/10` with high speed), exceeding the system's expected score still rewards the underdog with **positive ELO (`+ΔR`)**! Conversely, sluggish/sloppy wins against far weaker opponents can yield slight rating adjustments.
-
-</details>
-
----
-
-<details>
-<summary><strong>⚡ 3. 1v1 Live Bullet Blitz & Dual Challenge Engine</strong></summary>
-
-<br/>
-
-#### 🎯 Dual Matchmaking Modes (`V6.2` & `V7.5`)
-1. **Random Global Pool (`±100 ELO` Queue):** Instant rated 1v1 matchmaking pairing opponents within `±100 ELO` on identical problemsets and synchronized millisecond timers (*General Bullet*: 10 problems / 2 min; *Expert Blitz*: 5 problems / 15 min). Ties break by fastest completion millisecond.
-2. **Direct Friend Challenge (`@handle` & Shareable Invite Link):**
-   * Challenge any rival directly by typing their `@handle` (triggers a real-time HUD alert) or generate a shareable room link (`arithmo-edge.app/duel?room=XYZ123`) for WhatsApp, Discord, or Messenger.
-   * Supports **1v1 Duels** and **2–10 Player Multiplayer / Team Rooms** (where Peak ELO averages calibrate question difficulty, and each participant individually selects **Rated** or **Unrated**).
-
-#### ⏳ 30-Minute Expiration & Global Pool Fallback
-* **Paid to Create, Free to Accept:** Creating a live 1v1 or multiplayer challenge requires an active subscription or a single `$0.29` Duel Token, whereas **accepting any challenge is 100% free** for all users.
-* **Global Pool Fallback:** Unaccepted direct challenges auto-expire after **30 minutes**. If an invited friend is offline, the challenger can click **`Convert to Global Pool Match?`** to seamlessly route their custom room into the global matchmaking queue.
-
-</details>
-
----
-
-<details>
-<summary><strong>🛡️ 4. Zero False-Positive Dual Anti-Cheat (`Module 7` + `MBTS`) & Alt Prevention</strong></summary>
-
-<br/>
-
-#### 🎥 Layer 1: `Module 7` — Optical Telemetry & Neural Audio Collusion Trap
-* **Site-Wide Hardware Consent Gate:** Rated arenas require active Camera and Microphone permissions (`getUserMedia`). Denying permissions blocks rated entry.
-* **Context-Aware Adaptive Gaze Guard (`4.5s` Buffer):** Standard eye-gaze deflection grace (`2.0s`) automatically expands to **`4.5 seconds`** whenever a competitor faces complex composite numbers ($N \ge 3$ prime factors) or pauses typing to think mentally—preventing false flags during genuine cognitive calculation. Instant `-5 ELO` + lockdown triggers only on hard violations (leaving seat, covering lens, pitch-black room, or smartphone screen reflection detected in pupils while typing).
-* **3-Axis Neural Audio Collusion Trap:** Flags external voice assistance **only** when three independent signals fire simultaneously:
-  1. External voice phoneme matches a prime factor/number, **AND**
-  2. Eye-gaze vector drops off-screen toward a secondary device, **AND**
-  3. Exact answer is typed in `100ms–2500ms` with **zero backspaces**.
-
-#### 🧠 Layer 2: `MBTS` — Measure of Behavioral & Telemetry Similarity
-* Runs post-contest (`30 min` for General, `60 min` post-hacking for Expert). Ignores trivial numbers and clusters only high-complexity problems—comparing shared identical wrong factorizations, factor entry sequences, inter-keystroke cadence intervals, and network telemetry.
-* **Team Contest Exemption:** In official Team Rounds (`2–10` members sharing a single input field), `MBTS` treats the roster as a unified cognitive unit.
-
-#### 🪜 11-Flag Blackhole Lockdown Ladder & Alt-Account Prevention
-* **Blackhole Lockdown Ladder:**
-  * `Flags 1–2`: Next **1** positive-ELO contest (`ΔR > 0`) is nullified to `0 ELO`.
-  * `Flags 3–8`: Next **2** positive-ELO contests nullified to `0 ELO`.
-  * `Flag 9`: Next **3** positive-ELO contests nullified to `0 ELO`.
-  * `Flag 10`: Mandatory **1-Month Temporary Ban** + hardware security reset.
-  * `Flag 11`: **Permanent Gmail & IP Ban** across all 7 Arithmo-Edge sites.
-* **4-Signal Alt / Self-Upvote Neutralization:** Detects sockpuppet accounts upvoting user blogs or throwing matches via IP/subnet correlation, device fingerprint, cross-account keystroke cadence, and reciprocal vote graphs—**silently neutralizing** illegitimate `Contribution ELO` without alerting bad actors.
-* **4-Step Forensic Appeal & 7-Day Post-Ban Portal:** Banned users retain login access exclusively to the **`Appeal`** hub for **7 days** to submit evidence to the **Chief Arbiter**, who reviews telemetry logs, gaze vectors, and keystroke replays before ruling.
-
-</details>
-
----
-
-<details>
-<summary><strong>💎 5. Hybrid Monetization, Pay-As-You-Go Wallet & Contribution Rewards</strong></summary>
-
-<br/>
-
-#### 💳 5-Tier Monthly Subscriptions *(Strict One-Time 7-Day Free Trial per UID/Card)*
-
-| Tier | Price / Mo | V10.0 AI Math Mentor Quota | 1v1 Live Blitz Limit | Key Exclusive Capabilities |
-| :--- | :---: | :--- | :--- | :--- |
-| **Free** | `$0.00` | `5` questions/mo *(High Latency)* | Locked *(Accepts Free)* | **100% Free Daily Live Contests**, Gym, Problemset, Blogs, Appeals |
-| **Plus** | `$2.99` | `30` questions/mo *(Standard)* | `3` matches/day | Ad-free UX, `Plus` Badge, `5` Virtual Contests/mo, `100` Vault slots |
-| **Pro** | `$5.99` | `150` questions/mo *(Low Latency)* | `10` matches/day | Unlimited Virtual Contests, `5`-Player Friend Rooms, Weekly AI Diagnostics |
-| **Premium** | `$9.99` | `500` questions/mo *(Ultra-Fast)* | `30` matches/day | **Polygon Contest Hosting (`1500+ ELO`)**, `10`-Player Rooms, Paid Episodes |
-| **Singularity** | `$14.99` | **Unlimited** *(Zero-Latency)* | **Unlimited** *(Priority)* | **Unlocks All 5 Arithmo-Edge Sites**, Custom Themes, Fast-Track Appeals |
-| **Academy** | `$29.99` | `2,000` shared pool *(Low Latency)* | `100` shared/day | **Up to 100-Student Team Contests**, Inter-Club Championships, Coach Dashboard |
-
-#### 🪙 Pay-As-You-Go One-Time Micro-Passes & Arithmo Wallet (`walletCredits`)
-Users can top up their server-verified **Arithmo Wallet** or purchase standalone passes with zero recurring billing—and even **gift passes** to friends via `@handle`:
-* **Single Challenge Token (`$0.29`):** 1 rated 1v1 Bullet Blitz or Direct Challenge room.
-* **24-Hour Unlimited Duel Pass (`$0.99`):** Unlimited 1v1 & friend challenges for 24 hours.
-* **AI Mentor Mini / Mega Packs (`$0.99` for 25 Qs | `$2.49` for 100 Qs):** Non-expiring AI tutor credits.
-* **Single Contest Host Pass (`$1.49`) / Multiplayer Team Pass (`$0.79`):** One-off Polygon hosting or 10-player room access.
-* **Deep Diagnostic Report (`$0.49`) / Smart Mistake Deck (`$0.69`):** Post-contest AI heatmaps & 50-card spaced-repetition decks.
-* **Single School/Club Tournament Pass (`$4.99`):** Host a 100-student championship event without a monthly Academy plan.
-
-#### 🏆 Earn Everything Free via `Contribution ELO` & Blog-to-Lab Pipeline
-* **Merit-Based Wallet Rewards:** Every `+50 Contribution ELO` unlocks `2` Duel Tokens + `10` AI Mentor Qs; `+100 ELO` unlocks a `24h` Duel Pass + `25` AI Qs; `+250 ELO` unlocks a free Contest Host Pass; `+500 ELO` grants **1 Month of Premium (`$9.99`) Free**.
-* **AI-Curated Blog-to-Lab Pipeline:** Gemini + Arithmo-AI continuously shortlist the highest-rigor community blogs into a *"Lab Candidate Queue"*. Upon Headquarters approval, the article is permanently published to `edu.html` and `archive.html` with permanent author credit and a **`+5 Contribution ELO`** bonus.
-* **QR-Verified Certificate Portal (`/verify`):** World Cup finalists, Special Episode winners, and `3000+ ELO` *Prime Singularities* receive cryptographically signed certificates verifiable by universities and sponsors via QR code.
-
-</details>
-
----
-
-<details>
-<summary><strong>🧭 6. 6-Card Unified Hub Navigation & 24-Node Architecture</strong></summary>
-
-<br/>
-
-To keep the interface clutter-free while housing 24 deep modules, the entire platform is organized into **6 Unified Hub Cards** with fixed **Signature Dark Neon Themes** (no light-mode toggle) and an in-match **Zen Focus Mode** toggle:
-
-| Hub Card | Hub File | Included Platform Nodes (24 Total) |
+| Architectural Dimension | ⚡ General Mode UI (`exam.html` Velocity Flow) | 🏛️ Expert Mode UI (3-Column Toph.co-Style Dashboard) |
 | :--- | :--- | :--- |
-| **01 \| ARENA & COMPETITION** | `arena-hub.html` | `01` Gateway (`index.html`), `06` Live Contest & Exam Engine (`contest.html`, `exam.html`), `16` 1v1 Blitz & Duels (`duel.html`), `17` Contest Gym (`gym.html`), `08` Division Ranges (`ranges.html`, `custom.html`) |
-| **02 \| PROBLEMSET & LABS** | `training-hub.html` | `18` Olympiad Problemset (`problemset.html`), `04` Education Lab (`edu.html`), `21` Theorem & Editorial Archive (`archive.html`), `19` Polygon Studio (`workshop.html`) |
-| **03 \| STANDINGS & COMMUNITY** | `community-hub.html` | `15` Global Live Standings (`leaderboard.html`), `20` Community Blog & Expert Q&A (`blog.html`, `qa.html`), `03` 12-Tier ELO Matrix (`rating.html`), `09` Hall of Medals (`medals.html`) |
-| **04 \| AI MENTOR & DIAGNOSTICS** | `intelligence-hub.html` | `24` Context-Injected AI Math Mentor (`mentor.html`), `14` Telemetry Diagnostics Matrix (`cognitive-matrix.html`), `05` Laboratory Services (`services.html`) |
-| **05 \| IDENTITY & GOVERNANCE** | `governance-hub.html` | `07` Candidate Profile (`profile.html`), `22` Handle Direct Messages (`messages.html`), `10` Notification Center (`notifications.html`), `11 & 13` Engine & Profile Settings, `02 & 12` Rules & FAQ, `23` 6-Segment Appeal Portal (`appeal.html`) |
-| **06 \| UPGRADE PLAN** | `pricing-hub.html` | Direct comparison of Free, 5 Paid Tiers (`Plus`–`Academy`), 7-Day Trial activation, Pay-As-You-Go micro-passes, and Arithmo Wallet top-ups |
+| **Layout Architecture** | Single-question sequential focus flow (`exam.html` style) minimizing visual clutter. | **3-Column Toph.co-Style Olympiad Dashboard:**<br>• **Left Sidebar:** `Dashboard`, problem navigation list (`A, B, C...`), `Announcements`.<br>• **Center Workspace:** Problem titles, full statements, live solve ratios (`12/72`), and submission terminal.<br>• **Right Feed:** Real-time live **HQ `Announcements`** feed. |
+| **Navigation & Redemption** | **Zero back-review** without submitting or skipping; missed/skipped problems enter a **Second-Chance Overtime Loop** at the end of the pass. | Competitors can **freely jump between any problem `A..Z`** at any time during the match. |
+| **Submission & Input UX** | • **Zen Focus Mode** toggle (hides HUD chrome).<br>• **Mobile-Only Touch Numpad** (`0–9`, `*`, `^`, `⌫`, `SUBMIT`) eliminating mobile keyboard bounce. | • Strict **Max 2 Submissions per question** across the entire match.<br>• Live solve-ratio telemetry (`12/72`) updated in real time. |
 
-#### 🎨 Signature Sub-Site Color Identity
-* **Prime Factor:** `Electric Cyan (#00F0FF)` | **GCD-LCM:** `Mint Emerald (#10B981)` | **Number of Divisors:** `Vibrant Violet (#8B5CF6)` | **Square Root:** `Laser Amber (#F59E0B)` | **Sum of Divisors $\sigma(N)$:** `Nebula Rose (#F43F5E)`
+#### ⚔️ E. Post-Contest 6-Hour Hacking (Regular Expert Rounds)
+Following regular daily Expert Rounds, a **6-Hour Dual Hacking Window** opens before `1 hour` of MBTS finalization (`Finalization at T+7h`):
+1. **Problem / Edge-Case Hacking (`+25 to +100 pts` + Global Rejudge):** Discovering a missed mathematical edge case or judge flaw triggers an immediate **Global Rejudge** across all submissions and awards `+25 to +100` scoreboard points.
+2. **Opponent Submission Hacking (`+5 to +50 pts` / `-10 pts` Penalty):** Exposing a counterexample against another competitor's accepted submission awards **`+5 to +50 pts`** on success, or deducts **`-10 pts`** on a failed hack attempt.
 
 </details>
 
 ---
 
-<details>
-<summary><strong>🗺️ 7. Complete Master Version Roadmap (<code>V3.2</code> through <code>V11.0+</code>)</strong></summary>
+<details id="dropdown-2-exact-12-tier-elo-matrix-no-mixed-elo-system-expectation-override--virtual-gym">
+<summary><strong>📈 Dropdown 2: Exact 12-Tier ELO Matrix (No Mixed ELO), System Expectation Override & Virtual Gym</strong></summary>
 
 <br/>
 
-* **✅ `V3.2 – V3.3` (Foundation & Cloud Genesis — Live):** Client-side Brent-Pollard's Rho & Miller-Rabin engine, `Space = *` / `Enter = Submit` zero-mouse hotkeys, Firebase Auth (Google OAuth 2.0) + Cloud Firestore migration, Season 2 `500 ELO` baseline.
-* **🚀 `V3.4 – V3.8` (Identity, Focus & Pre-Flight):** Real-time Top 100 Global Standings (30-day active filter), pinned personal rank, unique `@handle`, Star (`★`) Friends, public profiles (`?handle=...`), **Zen Focus Mode**, Mobile Touch Numpad, ELO Progression Graph, public SVG badges, Offline PWA sandbox, Digital Rough Canvas, and 10s Hardware Pre-Flight Check.
-* **⚔️ `V4.0 – V4.5` (General Live Arena & Dual Anti-Cheat):** Daily `20:00 UTC` General Live Contests (4 segments), Button Firewall, **Module 7** (`4.5s` Adaptive Gaze Guard + 3-Axis Audio Trap), **MBTS** 30-min post-contest verification, Solve-Time Heatmaps, Match Replay, and Country/Institution filters.
-* **🏛️ `V5.0 – V5.5` (Expert Olympiad Mode & 6-Hour Hacking):** Daily `17:00 UTC` Expert Live Contests, Dual ELO (`General 500+` vs `Expert 0+`), Python scraping + Gemini 100% verification sandbox loop, **6-Hour Hacking + Global Rejudge**, `Appeal to Recheck` & Auto-Appeal, `@handle` Inbox, 6-Segment Appeal Portal, Contest Gym, and Problemset.
-* **🛠️ `V6.0 – V6.5` (Polygon Studio, Monetization & Team Contests):** Isolated **Polygon Studio** (`1500+ ELO` + 6 clean matches), `Contribution ELO (0±)`, 5-tier subscriptions + 7-day trial + Pay-As-You-Go Wallet, Dual Challenge System (30-min Global Pool Fallback), Virtual Contests, Shared-Input Team Contests, and Daily POTD Streaks.
-* **📖 `V7.0 – V7.5` (Knowledge Hub & 1v1 Bullet Blitz):** LaTeX Community Blog with pre-post Gemini zero-tolerance moderation, `2000+ ELO` Expert Q&A Hub, AI-verified Training Arena expansion, `My Vault`, AI Appeal Triage, and **1v1 Live Bullet Blitz Matchmaking**.
-* **🧠 `V8.0 – V8.4` (Hybrid Arithmo-AI & 6-Card Hub):** Fine-tuned **Arithmo-AI + Gemini Hybrid** (sub-millisecond MBTS & pre-filtering), TTL caching cost optimization, and consolidation of 24 nodes into 6 Unified Hub Pages.
-* **👑 `V9.0 – V9.3` (5-Tier Headquarters & Special Episodes):** Merit-invited (`200+ Contribution ELO`) 5-tier Headquarters hierarchy (*Core Sentinel* $\rightarrow$ *Problem Architect* $\rightarrow$ *Round Coordinator* $\rightarrow$ *Chief Arbiter* $\rightarrow$ top 3 Flag-Immune *Prime Sovereigns*, with free-user reporting accountability on lower tiers), Special Episodes (*IMO Episode, Arithmo Special, Olympiad Challenge, Math Query*), and Inter-Club Championships.
-* **🤖 `V10.0` (Context-Injected Interactive AI Math Mentor):** Single major release introducing a Socratic & step-by-step AI Math Mentor pre-loaded with the user's 15 ELOs, deficit bases, and last 10 match telemetry logs (hard-locked during live contests).
-* **🏆 `V10.1 – V10.3` (World Cup, Push PWA & Mistake Deck):**
-  * `V10.1`: **Annual World Cup** (`Top 128` General & Expert) using a 6-round **Progressive Half-Elimination** bracket (`128 → 64 → 32 → 16 → 8 → 4 → Champion`), awarding permanent rotating Golden Crowns (`👑`), Lifetime Singularity Passes, and sponsor prizes.
-  * `V10.2`: Offline-first installable PWA with `T-15 min` contest push notifications.
-  * `V10.3`: **AI Smart Mistake Deck** generating 7-day spaced-repetition flashcards from contest misses.
-* **🌌 `Post-10.3` & `V11.0+` (Arithmo-Edge & 4 Core IMO Hubs):** Full 7-site Arithmo-Edge launch followed by horizontal expansion across **Number Theory, Algebra, Combinatorics, and Geometry** (`40–60` specialized arenas).
+#### 🚫 A. Strict No-Mixed ELO Policy & Profile ELO Distribution
+**Arithmo-Edge** enforces a **Strict No-Mixed ELO Policy**: each of the 5 core arenas maintains completely isolated `General` and `Expert` ELO ratings (`10 Core ELOs` total), preventing cross-topic rating inflation:
+* **Arithmo-Edge Core Profile:** Displays the unified **Overall All-Rounder Rating**.
+* **5 Topic Arena Subsites (`#1–#5`):** Each displays its own dual **`General ELO` + `Expert ELO`**.
+* **Arithmo Socials (`Subsite #11`):** Displays the single global **`Contribution ELO`**.
+* **Arithmo Academy Arena (`Subsite #9`):** Displays the single institutional **`Academy ELO`**.
+
+#### 🏅 B. Complete 12-Tier Arena Rank Matrix
+
+| Tier | ELO Bracket | 🔹 Prime Factors | 🔸 GCD-LCM | 🟣 Numbers of Divisor | 🟡 Square Root | 🌹 Sum of Divisors $\sigma(N)$ |
+| :---: | :---: | :--- | :--- | :--- | :--- | :--- |
+| **Tier 1** | `0–499` | *Foundry Initiate* | *Base Radical* | *Divisor Novice* | *Radical Apprentice* | *Factor Adder* |
+| **Tier 2** | `500–899` | *Composite Apprentice* | *Euclidean Initiate* | *Factor Seeker* | *Square Finder* | *Aliquot Initiate* |
+| **Tier 3** | `900–1199` | *Sieve Calibrator* | *Quotient Scout* | *Prime Power Scout* | *Surd Scout* | *Divisor Series Scout* |
+| **Tier 4** | `1200–1399` | *Radix Scholar* | *Divisor Vanguard* | *Divisor Count Tactician* | *Rationalizer Tactician* | *Perfect Number Vanguard* |
+| **Tier 5** | `1400–1599` | *Modular Operator* | *Coprime Operator* | *Odd-Even Operator* | *Pellian Root Operator* | *Amicable Operator* |
+| **Tier 6** | `1600–1799` | *Prime Strategist* | *Linear Combinator* | *Divisor Summation Voyager* | *Continued Fraction Weaver* | *Multiplicative Weaver* |
+| **Tier 7** | `1800–1999` | *Logarithmic Vector* | *Algorithm Tactician* | *Highly Composite Vanguard* | *Quadratic Irrational Vanguard* | *Abundance Tactician* |
+| **Tier 8** | `2000–2199` | *Eulerian Sentinel* | *Diophantine Vector* | *Radical Strategist* | *Square-Free Strategist* | *Sigma-K Vector* |
+| **Tier 9** | `2200–2399` | *Gaussian Cryptographer* | *Congruence Overlord* | *Divisor Density Overlord* | *Pell-Fermat Overlord* | *Euler Pentagonal Overlord* |
+| **Tier 10** | `2400–2699` | *Canonical Analyst* | *Remainder Archon* | *Dirichlet Archon* | *Transcendental Archon* | *Gronwall-Robin Archon* |
+| **Tier 11** | `2700–2999` | *Riemann Transcendentalist* | *Infinite Product* | *Voronoi Transcendent* | *Equidistribution Transcendent* | *Eisenstein Transcendent* |
+| **Tier 12** | `3000+` | *Prime Singularity* | *Euclidean Singularity* | *Divisor Singularity* | *Radical Singularity* | *Sigma Singularity* |
+
+#### ⚡ C. System Expectation Override (`+ΔR` Underdog Protection)
+$$\Delta R = K \times \left(\text{Actual Performance} - \text{Expected Curve}(R_{\text{self}}, R_{\text{field}})\right)$$
+When an underdog faces significantly higher-rated opponents and **loses narrowly**, if their solve accuracy and millisecond speed outperform the system's expected performance curve, **System Expectation Override** awards **positive ELO (`+ΔR`)** rather than penalizing a close defeat.
+
+#### 🏋️ D. Virtual Participation (`Virtual Gym`)
+* **Real-Time Ghost Leaderboard Simulation:** Replays historical live contests timestamp-by-timestamp, inserting the participant onto the live scoreboard with a **`#` / `Virtual`** badge.
+* **Strict Unrated Policy + Simulated ELO Delta:** Virtual runs never modify official ELO, but calculate and display an accurate **Simulated ELO Delta** (`+45` / `-20` rating projection) upon completion.
+* **Proctoring & Practice Hack:** Includes optional **Module 7** proctoring practice and an offline **Practice Hack** sandbox.
+* **Access Tiers:** **Solo Mode** is **100% Free** for all users; **Private Group Rooms** are unlocked for `Premium` (max `10` members) and `Singularity` (**unlimited** members).
 
 </details>
 
 ---
 
-## ⚙️ 4. Tech Stack, Zero-Cost Scaling & Repository Setup
+<details id="dropdown-3-standings-portal-subsite-7-14-real-time-leaderboards--monotonic-hq-elo">
+<summary><strong>🏆 Dropdown 3: Standings Portal (<code>Subsite #7</code>), 14 Real-Time Leaderboards & Monotonic HQ ELO</strong></summary>
 
-### 🛠️ Production Architecture & Zero-Cost Scaling Strategy
+<br/>
 
-By executing factorization engines, audio synthesizers, and optical proctoring directly in the client browser (`Client-Side Edge Computing`) and leveraging edge caching + atomic batch writes, the platform supports **50,000+ concurrent free users** at near-zero baseline infrastructure cost:
+#### 🌍 A. Public Guest Access & Drill-Down Architecture
+* **Zero-Login Public Access:** Anyone worldwide can browse `Subsite #7 (Standings Portal)` without logging in, including full access to **Country**, **Organization**, and **Academy** filters plus the **Wall of Patrons**. Logging in unlocks **Pinned Personal Standing** at the top of every board and the **`★ My Friends`** filter.
+* **5-Category Drill-Down $\rightarrow$ 14 Real-Time Leaderboards:**
+  `Homepage` $\rightarrow$ `Explore Real Time Leaderboard` $\rightarrow$ **5 Category Buttons** unlocking **14 Live Boards**:
+  1. **Headquarters (`1 Board`):** Displays **ALL HQ members** (never capped at Top 100). Governed by **Monotonic HQ ELO** and **Strict Positional Chronology**.
+  2. **5 Core Arenas (`10 Boards`):** Select any of the 5 arenas $\rightarrow$ Select `General` or `Expert` (`5 × 2 = 10` boards).
+  3. **Academy (`1 Board`):** Global ranking of schools, colleges, and clubs by unified single **`Academy ELO`**.
+  4. **Contributors (`1 Unified Board — No Arena Division`):** Single global leaderboard ranking ecosystem stewards by **`Contribution ELO`**.
+  5. **All Rounders (`1 Board`):** Combined multi-arena composite performance index.
 
-| Layer | Technology / Service | Architectural Role & Cost Guardrail |
+#### 👑 B. Monotonic Headquarters (HQ) ELO & 5-Tier Command Ladder
+* **Monotonic Non-Decreasing Rule:** HQ ELO **never decreases**—it grows steadily through junior Q&A mentorship, verified contributions, problemsetting, and system governance deeds.
+* **Strict Positional Chronology:** A lower-ranked HQ member **never overtakes** a higher-ranked member on the HQ board even if their raw HQ ELO exceeds the senior member's score; rank advancement occurs strictly upon formal tier promotion.
+* **5-Tier HQ Hierarchy & Dual Promotion Gate:**
+
+```text
+[100 HQ ELO] Core Sentinel ──► [300 HQ ELO] Problem Architect ──► [500 HQ ELO] Round Coordinator ──► [750 HQ ELO] Chief Arbiter ──► [1000 HQ ELO] Prime Sovereign (Top 3 • Flag-Immune)
+```
+* **Dual Promotion Requirement:** Advancing to any higher HQ tier requires **BOTH** reaching the target HQ ELO bracket **AND** being issued an exact **Prime Sovereign Certificate**.
+* **HQ Induction Protocol:** Standard induction requires **`+200 Contribution ELO` + `6` latest clean rated matches + a Prime Sovereign Certificate**, triggering an automatic system notification that requires **affirmative user consent** before onboarding *(complemented by rare direct induction by a Prime Sovereign)*.
+
+</details>
+
+---
+
+<details id="dropdown-4-dual-ai-systems-arithmo-ai--arithmo-guild-ai-dynamic-semantic-metering--dual-wallets">
+<summary><strong>🧠 Dropdown 4: Dual AI Systems (Arithmo AI & Arithmo Guild AI), Dynamic Semantic Metering & Dual Wallets</strong></summary>
+
+<br/>
+
+#### 🤖 A. Dual Context-Injected AI Engines
+1. **Arithmo AI (`Subsite #8`):** Context-injected personal AI math mentor pre-fed with the user's **15 ELOs** and complete match telemetry history. **Hard-locked during live rated matches.**
+2. **Arithmo Guild AI (Navbar Tab inside `Subsite #9: Academy Arena`):** Institutional AI analytics & coaching engine pre-fed with academy-wide standings and batch performance, and directly linked to **Arithmo AI** for granular member-level diagnostics.
+   * **Monthly Institutional Quotas:** `Academy General` (`15 msgs/mo`), `Academy Premium` (`75 msgs/mo`), `Academy Supreme` (`150 msgs/mo`). Top-ups are purchased exclusively by Academy Admins via the **Institutional Academy Wallet**.
+
+#### ⚖️ B. Dynamic Semantic Token Metering (Applies to Both AIs)
+Instead of naive message counting, both AI engines evaluate semantic intent before deducting tokens:
+* **Duplicate Question Protection:** Asking the exact same question twice = **`-1` quota total** (0 deduction on repeat).
+* **Multi-Question Batch Packing:** Packing $N$ distinct mathematical questions into a single prompt = **`-N` quotas**.
+* **Conversational Zero-Cost:** Greetings (`"Hi"`), acknowledgments (`"Thanks"`), and short follow-up clarifications = **`0` quota cut**.
+
+#### 🚀 C. Tiered AI Quality & Dual Pay-As-You-Go Modes (`General 1x` vs `Premium 2x`)
+Analysis depth, model hybridity, inference latency, and server queue priority scale automatically with subscription tier. Standalone **Pay-As-You-Go** packs offer two selectable compute modes:
+* **General Mode (`1x` Base Price):** Standard analysis depth, standard model routing, standard queue priority.
+* **Premium Mode (`2x` Price):** **Deep Analysis**, **Ultra-Low Latency**, **Hybrid Generative AI Models**, and **High Server Queue Priority**.
+
+| Product Line | Pack / Pass Option | General Mode (`1x`) | Premium Mode (`2x` Hybrid Ultra-Low Latency) |
+| :--- | :--- | :---: | :---: |
+| **Arithmo AI (`Subsite #8`)** | **10 Tokens** | `$0.99` | `$1.98` |
+| **Arithmo AI (`Subsite #8`)** | **35 Tokens** | `$2.49` | `$4.98` |
+| **Arithmo AI (`Subsite #8`)** | **24h Unlimited Pass** | `$3.99` | `$7.98` |
+| **Arithmo AI (`Subsite #8`)** | **100 Tokens** | `$5.99` | `$11.98` |
+| **Arithmo Guild AI (`Subsite #9`)** | **15 No-Deadline Tokens** | `$4.99` | `$9.98` |
+| **Arithmo Guild AI (`Subsite #9`)** | **48h Unlimited Pass** | `$9.99` | `$19.98` |
+
+#### 💳 D. Two Completely Isolated Wallets & 1v1 Bullet Blitz Economy
+1. **Personal Arithmo Wallet (`Core Portal`):**
+   * Supports direct **Pass Gifting via `@handle`**.
+   * Automatically credits free wallet rewards upon hitting **`+50`**, **`+100`**, **`+250`**, and **`+500` `Contribution ELO`** milestones.
+2. **Institutional Academy Wallet (`Inside Academy Arena`):**
+   * Completely segregated institutional ledger operated strictly through the **Academy Admin Panel**.
+3. **1v1 Bullet Blitz & Challenge Economy:**
+   * **Random Global Pool (`±100 ELO`):** Includes **5 Free Challenges** for Free-tier users.
+   * **Direct `@handle` / Link Friend Challenges:** **Paid-only to create** (includes a **30-minute expiration** with one-click **Global Pool Fallback** if the friend doesn't join), and **100% Free to accept**.
+
+</details>
+
+---
+
+<details id="dropdown-5-complete-arithmo-academy-arena-subsite-9-architecture">
+<summary><strong>🏫 Dropdown 5: Complete Arithmo Academy Arena (<code>Subsite #9</code>) Architecture</strong></summary>
+
+<br/>
+
+#### 📦 A. Three Institutional Sub-Packages *(Strict 1-Month Minimum • No-Refund Policy • 5-Day Renewal Ultimatum)*
+
+| Academy Tier | Monthly Price | Roster Cap & Member Perks | Exclusive Institutional Features |
+| :--- | :---: | :--- | :--- |
+| **Academy General** | **`$29.99/mo`** | Max **`100` members**<br>*(All members get `Plus` tier + `Academy General` badge)* | Attendance & CSV performance exports, computer lab IP whitelisting, structured homework assignments, `15` Arithmo Guild AI msgs/mo. |
+| **Academy Premium** | **`$49.99/mo`** | Max **`500` members**<br>*(All members get `Premium` tier)* | Everything in General + **AI Batch Weak-Topic Radar**, eligibility for irregular **Inter-Academy Clash Championships** (`$4.99` one-time registration), `75` Guild AI msgs/mo. |
+| **Academy Supreme** | **`$74.99/mo`** | **Unlimited members**<br>*(All members get `Singularity / Supreme` tier)* | **ALL Pay-As-You-Go features included 100% FREE:** free Inter-Academy Clash, free Academy Guidebook, free on-demand contests, free Virtual Edu Lab, **co-branded QR certificates**, `150` Guild AI msgs/mo. |
+
+#### 🎯 B. On-Demand Academy Contests *(For General & Premium — Free for Supreme)*
+* **`$1.99`:** HQ-Composed Group Contest.
+* **`$4.99`:** HQ-Composed Private Room Single Contest *(requested via HQ appeal)*.
+* **`$9.99`:** Mentor Self-Composed Problemset Contest.
+* *(Privacy Isolation: All academy contests appear **exclusively** inside Academy Arena's `Contest` tab and remain completely hidden from public `Subsite #6`).*
+
+#### 📖 C. Dual Guidebooks, `+2 Contribution ELO` & Virtual Edu Lab
+* **Dual Guidebooks:** **Academy Guidebook** (`$14.99/mo` with a 3-day renewal grace period; **free** for Supreme) + **Free Printable Guidebook** (available on the Core Portal).
+* **`+2 Contribution ELO` Certified Math Authorship:** Any user who submits mathematical material certified by **Gemini** and approved by **HQ** gets their contribution added globally to the guidebook and personally earns **`+2 Contribution ELO`** *(academies themselves do not hold Contribution ELO)*.
+* **Virtual Edu Lab:** Real-time collaborative math communication room monitored silently by **Arithmo AI**—which intervenes directly in the chat stream if a critical false mathematical theorem or proof fallacy is posted (**Free** for Supreme; **`$2.99 / 24h`** for General & Premium).
+
+#### 🔐 D. Onboarding, Governance & Dual Standing Tabs
+1. **Pioneer Onboarding:** Academy Pioneer purchases a pack on Core $\rightarrow$ logs into `Subsite #9 (Academy Arena)` $\rightarrow$ receives a **Cryptographic Academy Handle & Token** $\rightarrow$ shares an **Invite URL + Passcode** or appends members directly via `@handle` *(outsiders may also request to join and pay `$9.99` upon Admin approval)*.
+2. **Admin Governance:** Members can request Admin promotion (requires **Admin Head approval + `$2.99` fee**). Admins may step down after appointing a successor, provided **at least 1 member remains** in the academy.
+3. **Dual Standing Tabs:**
+   * **`Academy Standing`:** Inter-academy leaderboard ranked by institutional `Academy ELO`.
+   * **`Members Standing`:** Displays every member's rank **both inside their Academy AND across the entire global Arithmo-Edge userbase**.
+
+</details>
+
+---
+
+<details id="dropdown-6-arithmo-forge-subsite-10-5-pillar-legal-problem-generation--zero-fp-anti-cheat">
+<summary><strong>🛠️ Dropdown 6: Arithmo Forge (<code>Subsite #10</code>), 5-Pillar Legal Problem Generation & Zero-FP Anti-Cheat</strong></summary>
+
+<br/>
+
+#### 🧬 A. 5-Pillar Legal & Creative Problem Engine (`Arithmo Forge`)
+1. **Procedural Olympiad Python Generators:** Deterministic, parameterized number theory generators producing infinite non-repeating problem instances.
+2. **Arithmo Forge Community Problemsetters:** Open to verified authors with **`1500+ ELO` + `6` clean rated matches**.
+3. **Public Domain Math Re-Engineering:** Classic public-domain Olympiad concepts structurally transformed with fresh constraints and numeric bounds.
+4. **Weekly HQ Master's Vault:** Hand-crafted problems curated exclusively by HQ for **Sunday Mega Arena Contests** and **Saturday Special Episodes**.
+5. **Golden Reference Bank + AI Creative Synthesis:** Feeds elite Olympiad benchmark structures into **Arithmo AI + Gemini** to synthesize brand-new, deeper, and more creative original problems—**strictly never copying** existing problems.
+
+#### ⚙️ B. Smart Compute Routing (`Cost & Accuracy Optimization`)
+* **Light Segments (`Initiate`, `Contender`, `Apprentice`):** Generated and validated directly via AI reasoning pipelines without spinning up heavy Python sandbox containers.
+* **Complex / Apex Segments (`Vanguard`, `Apex`, `Sunday Mega`):** Requires Gemini to write and execute a **100% Python verification sandbox** cross-checking multiple independent solving algorithms before a problem can be published.
+
+#### 🛡️ C. Zero-False-Positive Anti-Cheat (`Module 7` + `MBTS`), Alt Defense & Forensic Appeals
+* **Site-Wide Camera & Mic Permission Gate:** Rated contest entry requires active `getUserMedia` camera and microphone streams.
+* **`4.5s` Adaptive Gaze Guard:** Grace buffer automatically widens to **`4.5 seconds`** during multi-factor cognitive calculation pauses so honest mental math thinkers are never flagged.
+* **3-Axis Neural Audio Trap:** Triggers only when **(1)** external voice phoneme matches a number/factor, **(2)** gaze drops off-screen, **AND** **(3)** exact answer is typed in `100ms–2500ms` with zero backspaces.
+* **11-Flag Blackhole Lockdown Ladder:**
+  * `Flags 1–2`: Next **1** positive-ELO match nullified to `0`.
+  * `Flags 3–8`: Next **2** positive-ELO matches nullified to `0`.
+  * `Flag 9`: Next **3** positive-ELO matches nullified to `0`.
+  * `Flag 10`: **1-Month Temporary Ban** + hardware reset.
+  * `Flag 11`: **Permanent Gmail & IP Ban** across all 12 sites.
+* **4-Signal Alt / Self-Upvote Silent Neutralization:** Correlates IP/subnet, device fingerprint, keystroke cadence, and reciprocal vote graphs to **silently neutralize** sockpuppet `Contribution ELO` without alerting manipulators.
+* **4-Step Forensic Appeal Verification:**
+  1. Encrypted telemetry packet upload + **AI Honesty Score** computation.
+  2. **5-Minute Live Skill Audit** benchmark under proctored observation.
+  3. **Chief Arbiter** forensic review of gaze vectors & keystroke replays.
+  4. **7-Day Post-Ban Appeal Access:** Banned accounts retain login access strictly to `Arithmo Socials`' **Forensic Appeal Portal** for 7 days.
+
+</details>
+
+---
+
+<details id="dropdown-7-master-version-roadmap-v32-through-v110">
+<summary><strong>🗺️ Dropdown 7: Master Version Roadmap (<code>V3.2</code> through <code>V11.0+</code>)</strong></summary>
+
+<br/>
+
+| Release Milestone | Architectural & Feature Deliverables |
+| :--- | :--- |
+| **`V3.2 – V3.3` *(Live)*** | Client-side Brent-Pollard's Rho & Miller-Rabin engine, `Space = *` / `Enter = Submit` zero-mouse hotkeys, Unified Firebase Auth + Cloud Firestore genesis, Season 2 baseline ratings. |
+| **`V3.4`** | Real-time Global Standings (`Subsite #7`), unique `@handle` onboarding with Strict No-Handle Auto-Redirect, `★ Star Friends` filter, and public profiles. |
+| **`V4.0 – V5.4`** | Daily `20:00 UTC` **General Arena** (`exam.html` flow + Mobile Touch Numpad + Overtime Loop) & `17:00 UTC` **Expert Arena** (**3-Column Toph.co-Style Dashboard** + Max 2 submissions + `6h` Hacking + Global Rejudge), **Module 7** (`4.5s` Adaptive Gaze Guard + 3-Axis Audio Trap) + **MBTS** clustering. |
+| **`V6.0 – V7.5`** | **Arithmo Forge (`Subsite #10`)**, **Dual Wallets** (Personal Arithmo Wallet + Institutional Academy Wallet), **1v1 Bullet Blitz** & Direct Friend Challenges (`30-min` Global Pool Fallback), **Arithmo Socials (`Subsite #11`)** topic blogs, AI Blog-to-Lab pipeline, `2000+ ELO` Expert Q&A, and Dual Guidebooks. |
+| **`V8.0 – V9.3`** | **Hybrid Arithmo-AI & Arithmo Guild AI** (Dynamic Semantic Token Metering + General `1x` / Premium `2x` modes), **5-Tier Monotonic Headquarters** (*Core Sentinel* $\rightarrow$ *Prime Sovereign*), and **Saturday Special Episodes** (*IMO Simulation, Number Theory Contest, Arithmo Special, Olympiad Challenge, Math Query*). |
+| **`V10.0 – V10.3`** | • **`V10.0`:** Context-Injected **Arithmo AI (`Subsite #8`)** reading all 15 ELOs & telemetry logs.<br>• **`V10.1`:** **Annual World Cup** (`Top 128`) using a 6-round **Progressive Half-Elimination** bracket (`128 → 64 → 32 → 16 → 8 → 4 → Champion`) awarding permanent rotating **Golden Crowns (`👑`)**.<br>• **`V10.2`:** Offline-first installable **PWA** with `T-15 min` contest push notifications.<br>• **`V10.3`:** **AI Smart Mistake Deck** generating 7-day spaced-repetition flashcards from contest misses. |
+| **`Post-10.3 / V11.0+`** | Full **12-Site Federated Ecosystem** (`1 Core + 11 Subsites`) & **4 Core IMO Hubs** (*Number Theory, Algebra, Combinatorics, Geometry* — `10–15` sub-arenas per hub). |
+
+</details>
+
+---
+
+## ⚙️ 3. Tech Stack, Zero-Cost Scaling & Local Setup
+
+<div align="center">
+<img src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1400&h=240&fit=crop" alt="Arithmo-Edge Serverless Edge Infrastructure" width="100%" />
+</div>
+
+<br/>
+
+### 🛠️ Production Tech Stack & Zero-Cost Scaling Strategy
+
+| Infrastructure Layer | Production Technology | Architectural Role & Zero-Cost Guardrail |
 | :--- | :--- | :--- |
-| **Frontend & Engine** | `Vite` + `Vanilla ES6+` + `KaTeX` + `Web Audio API` | Sub-50ms load time, Pollard's Rho + Miller-Rabin client engine, tactile velocity decay audio. |
-| **Hosting & Edge Proxy** | `Vercel Edge` / `GitHub Pages` + `Cloudflare Workers` | Secures `GEMINI_API_KEY` & payment webhooks server-side (`100,000` free requests/day). |
-| **Auth & Database** | `Firebase Auth (Google OAuth 2.0)` + `Cloud Firestore` | Single atomic match writes, `getCountFromServer()` rank queries, TTL local caching, `$5` hard budget cap. |
-| **Security & Bot Defense** | `Firestore Security Rules` + `Firebase App Check` + `Turnstile` | Prevents DevTools score spoofing, API scraping, and bot spam on blogs/appeals. |
-| **AI & Automated Jobs** | `Gemini SDK` + `Arithmo-AI` + `GitHub Actions (Python)` | Free scheduled cron jobs for Olympiad scraping, 100% sandbox verification, and `MBTS` runs. |
-| **Payments & Webhooks** | `Lemon Squeezy` / `Paddle` (Merchant of Record) | Zero monthly fee; cryptographic webhooks securely credit `subscriptionTier` & `walletCredits`. |
+| **Client Engine & UI** | `Vite` + `Vanilla ES6+` + `KaTeX` + `Web Audio API` | Client-side Brent-Pollard's Rho & Miller-Rabin engine, sub-50ms load, Mobile Touch Numpad, zero-server-CPU gameplay. |
+| **Edge Hosting & Proxy** | `Vercel Edge` + `Cloudflare Workers` | Multi-subdomain routing across all 12 portals; secures `GEMINI_API_KEY` & webhooks (`100k` free reqs/day). |
+| **Auth & Database** | `Unified Firebase Auth` + `Cloud Firestore` | Single UID across 12 sites, Strict No-Handle Auto-Redirect, `donors` collection sync, atomic batch writes, `getCountFromServer()`. |
+| **Payments & Webhooks** | `Lemon Squeezy` / `Paddle` Webhooks | Zero monthly overhead; cryptographic webhooks credit subscriptions, Pay-As-You-Go tokens, dual wallets, and `☕ Patron` badges. |
+| **AI & Automated Jobs** | `Arithmo AI` + `Gemini` + `GitHub Actions (Python)` | Free scheduled cron pipelines for Python 100% verification sandboxes, `MBTS` telemetry clustering, and Blog-to-Lab curation. |
 
-### 🚀 Local Development & Deployment Guide
+### 🚀 Local Development & Deployment Commands
 
 ```bash
-# 1. Clone the repository
+# 1. Clone the Arithmo-Edge / Prime-Factor.app repository
 git clone https://github.com/rayaantasnim/Prime-Factorization-Web.git
 cd Prime-Factorization-Web
 
 # 2. Install dependencies
 npm install
 
-# 3. Configure environment variables (.env.local)
-cat <<EOF > .env.local
-VITE_FIREBASE_API_KEY=your_firebase_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=your_project_id
-VITE_FIREBASE_APP_CHECK_SITE_KEY=your_turnstile_or_recaptcha_key
+# 3. Configure Unified Firebase, AI & Webhook environment variables (.env.local)
+cat <<EOF> .env.local
+VITE_FIREBASE_API_KEY=your_unified_firebase_api_key
+VITE_FIREBASE_AUTH_DOMAIN=arithmo-edge.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=arithmo-edge-prod
+VITE_CORE_PORTAL_URL=https://arithmo-edge.app
 GEMINI_API_KEY=your_server_side_gemini_key
 LEMON_SQUEEZY_WEBHOOK_SECRET=your_webhook_secret
 EOF
 
-# 4. Run local Vite development server
+# 4. Start local Vite development server
 npm run dev
 
-# 5. Deploy Firestore security rules & serverless edge functions
+# 5. Deploy Firestore security rules & Vercel Edge production build
 firebase deploy --only firestore:rules
 vercel --prod
 ```
 
+<br><br>
 <div align="center">
 
 ---
 
-**Authorized by Rayaan Tasnim**  
-&copy; All Rights Reserved  
-&copy; Arithmo-Edge  
-*Powered by Olympiad Edge*
+Authorized by Rayaan Tasnim <br>
+© All Rights Reserved <br>
+© Arithmo-Edge <br>
+Powered by Olympiad Edge
 
 </div>
