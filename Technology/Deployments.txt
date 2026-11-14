@@ -1,0 +1,23 @@
+
+একটি টাকাও ডোমেইন না কিনে: ১০০% ফ্রি ফরএভার GitHub Pages + GitHub Actions ডিপ্লয়মেন্ট
+
+তুমি যেহেতু কোনো ডোমেইন কিনবে না, তাই এটি আমাদের জন্য বরং একটি বিশাল কারিগরি আশীর্বাদ (Massive Technical Advantage)!
+
+ক. rayaantasnim.github.io-এর অধীনে ১২টি সাইটের ফ্রি হোস্টিং (Single Domain SSO)
+
+গিটহাবে তোমার অ্যাকাউন্টের অধীনে ১২টি আলাদা রিপোজিটরি (Repo) খুললেই প্রতিটি রিপোজিটরি আজীবন ফ্রিতে নিজস্ব সাব-পাথ ইউআরএল পেয়ে যাবে—একটি ডোমেইনও কিনতে হবে না:
+• কোর মাদারশিপ: https://github.io
+• সাব-সাইট #১–#৫: .../Prime-Factor/, .../GCD-LCM/, .../Divisors/, .../Square-Root/, .../Sigma-Sum/
+• সাব-সাইট #৬ (Contest): .../Arithmo-Contest/
+• সাব-সাইট #৭ (Standings): .../Arithmo-Standings/
+• সাব-সাইট #৮ (Arithmo AI): .../Arithmo-AI/
+• সাব-সাইট #৯ (Academy Arena): .../Academy-Arena/
+• সাব-সাইট #১০ (Arithmo Forge): .../Arithmo-Forge/
+• সাব-সাইট #১১ (Arithmo Socials): .../Arithmo-Socials/
+সবচেয়ে বড় জয় (Automatic Cross-Site SSO): যেহেতু ১২টি সাইটই rayaantasnim.github.io ডোমেইনের অধীনে থাকবে, তাই Firebase Authentication সবগুলো সাইটকে একই ডোমেইন হিসেবে চিনবে! অর্থাৎ কোর সাইটে একবার Gmail দিয়ে লগইন করলে বাকি ১১টি সাইটে ব্রাউজার সেশন ও @handle স্বয়ংক্রিয়ভাবে লগইন অবস্থায় থাকবে!
+
+খ. GitHub Actions দিয়ে অটো-ডিপ্লয়মেন্ট ও ব্যাকএন্ড ক্রন জব ($0/Month)
+
+• Auto-Deploy CI/CD: প্রতিবার তুমি কোড পুশ (git push) করলে GitHub Actions স্বয়ংক্রিয়ভাবে সাইট বিল্ড করে সাথে সাথে লাইভ করে দেবে।
+• Scheduled Cron Automation: GitHub Actions-এর ফ্রি শিডিউলার দিয়ে ব্যাকএন্ডের পাইথন স্ক্রিপ্টগুলো চলবে—যা প্রতিদিন নির্দিষ্ট সময়ে অলিম্পিয়াড প্রশ্ন তৈরি ও ১০০% পাইথন স্যান্ডবক্সে যাচাই করবে, ৬ ঘণ্টার হ্যাকিং শেষে রি-জাজ করবে এবং পোস্ট-কনটেস্ট MBTS অ্যান্টি-চিট প্রসেস করে ইলো আপডেট করবে।
+• এপিআই কী সুরক্ষা (Zero-Cost Serverless Proxy): যেহেতু GitHub Pages একটি স্ট্যাটিক হোস্ট, তাই তোমার গোপন GEMINI_API_KEY এবং পেমেন্ট ওয়েবহুক লুকিয়ে রাখার জন্য আমরা Cloudflare Workers (*.workers.dev — প্রতিদিন ১,০০,০০০ ফ্রি রিকোয়েস্ট) ব্যবহার করব, যেখানে কোনো কাস্টম ডোমেইন কেনার প্রয়োজনই নেই।
